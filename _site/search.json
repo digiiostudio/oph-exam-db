@@ -1,0 +1,623 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "OphExam-QuartoDB",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "基礎與分冊指引",
+      "OphExam-QuartoDB"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site",
+    "crumbs": [
+      "基礎與分冊指引",
+      "About"
+    ]
+  },
+  {
+    "objectID": "section-08.html",
+    "href": "section-08.html",
+    "title": "Section 8: External Disease and Cornea",
+    "section": "",
+    "text": "0.1 Question 1712\n以下關於單純皰疹病毒（HSV）角膜炎的敘述，何者錯誤？ (A) HSV 是雙股、有鞘膜的 DNA 病毒。 (B) 原發性感染典型表現為眼瞼結膜炎。 (C) 治療樹枝狀角膜炎應立即加入局部類固醇藥水以減少疤痕。 (D) 盤狀角膜炎被歸類為原發性內皮細胞炎。\n\n\n\n\n\n\nNote[cite_start]💡 點擊展開 BCSC 專業解析與出處 [cite: 16]\n\n\n\n\n\n[cite_start]出處來源： AAO BCSC 2025-2026 E-book Section 8, page 273, 276, 281, 283. [cite: 7]\n[cite_start]原文內容： [cite: 16] - (Page 273) [cite_start]The virus is an enveloped, double-stranded DNA virus… [cite: 9] - (Page 281) [cite_start]The HEDS demonstrated no benefit of topical corticosteroids in the treatment of epithelial keratitis. [cite: 14]\n[cite_start]正確答案：(C) [cite: 17] [cite_start]解析： 根據 BCSC 指南，治療「樹枝狀上皮角膜炎（dendritic epithelial keratitis）」時，不應加入類固醇眼藥水 [cite: 17][cite_start]。HEDS 研究已證實，對於單純的上皮性角膜炎，使用局部類固醇並無益處 [cite: 17]。\n[cite_start]其餘選項說明： [cite: 18] - (A) [cite_start]正確：HSV 對酒精、清潔劑和熱很敏感 [cite: 19]。 - (B) [cite_start]正確：常伴隨耳前淋巴結腫大 [cite: 20]。 - (D) [cite_start]正確：盤狀角膜炎臨床表現為圓盤狀的基質與上皮水腫 [cite: 21]。"
+  },
+  {
+    "objectID": "section-08-cornea.html",
+    "href": "section-08-cornea.html",
+    "title": "OphExam-Quarto-DB",
+    "section": "",
+    "text": "0.1 Question 828\n\n角膜的葡萄糖 (glucose) 來源，大部分是從下列何處？\n(A) 淚水層 (tear film)\n(B) 房水 (aqueous humor)\n(C) 輪部血管 (limbal blood vessels)\n(D) 角膜上皮 (corneal epithelium)\n\n\n\n\n\n\n\nNote💡 點擊展開 BCSC 專業解析與出處\n\n\n\n\n\n出處來源： AAO BCSC 2025-2026 E-book Section 8, page 9.\n原文內容： &gt; (Page 9) “For nutrition, the cornea depends on diffusion of glucose from the aqueous humor and diffusion of oxygen through the tear film. The peripheral cornea is supplied with oxygen from the limbal circulation.”\n正確答案：(B)\n根據 BCSC 指南，角膜為無血管組織。其維持生理功能所需的葡萄糖 (glucose) 主要依賴自後方的房水 (aqueous humor) 擴散供應；而其所需的氧氣 (oxygen) 則主要透過前方的淚水層 (tear film) 擴散取得。\n各選項辨析： (A) 錯誤：淚水層的主要功能是供應氧氣，而非葡萄糖。 (B) 正確：角膜葡萄糖供應幾乎完全依賴房水的擴散作用。 (C) 錯誤：輪部血管主要供應周邊角膜的氧氣。 * (D) 錯誤：角膜上皮是葡萄糖的消耗者，且具有屏障功能，無法提供葡萄糖。\n💡 核心考點統整： 1. 葡萄糖來源：房水 (Aqueous humor)。 2. 氧氣來源：中央靠淚水層 (Tear film)，周邊靠輪部循環 (Limbal circulation)。\n\n\n\n\n\n\n0.2 Question 829\n\n有關乾眼症(dry eye)的敘述，下列何者錯誤？\n(A) Lacrimal functional unit 包含連結到eyelid 的motor nerves。\n(B) Dry eye 的core mechanisms 包含tear hyperosmolarity。\n(C) 若有filamentary keratopathy 出現，使用therapeutic soft contact lens 是禁忌(contra indication)。\n(D) 使用topical cyclosporine A 0.05%時，可搭配使用短期的topical steroid。\n\n\n\n\n\n\n\nNote💡 點擊展開 BCSC 專業解析與出處\n\n\n\n\n\n💡 點擊展開 BCSC 專業解析與出處 出處來源： AAO BCSC 2025-2026 E-book Section 8, page 65-66, 127.\n原文內容：\n(Page 65-66) “Although therapeutic bandage contact lenses may help impede filament formation, they are rarely used to reduce symptoms in patients with ATD because of the associated increased risk of infectious keratitis. Close observation is warranted in patients with ATD who wear these lenses. In contrast, scleral contact lenses have been found to be quite helpful in patients with advanced dry eye symptoms.”\n(Page 127) “Continuous wear of a soft lens can relieve the symptoms of painful bullous or filamentary keratopathy.”\n正確答案：(C)\n解析： 本題考查乾眼症 (dry eye) 及其併發症的機轉、診斷與治療原則。根據 BCSC 內容，當乾眼症嚴重到引發絲狀角膜炎 (filamentary keratopathy) 時，治療型軟式隱形眼鏡 (therapeutic soft contact lens / bandage contact lens, BCL) 並非絕對禁忌症。相反地，BCSC 明確指出連續配戴軟式隱形眼鏡可以緩解絲狀角膜炎帶來的疼痛症狀，甚至可阻礙絲狀物的形成。儘管在水液缺乏型乾眼症 (aqueous tear deficiency, ATD) 的患者中使用 BCL 確實會增加感染性角膜炎的風險，因此臨床上需謹慎使用並密切觀察（或考慮使用鞏膜鏡 scleral lenses），但這屬於相對風險，而非「禁忌 (contraindication)」。\n各選項辨析：\n\nLacrimal functional unit 包含連結到eyelid 的motor nerves：正確。BCSC (Page 5) 指出，淚液功能單位 (Lacrimal functional unit, LFU) 包含淚腺、眼表（角膜與結膜）、眼瞼 (eyelids)，以及連結這些組件的感覺與運動神經 (sensory and motor nerves)。\nDry eye 的core mechanisms 包含tear hyperosmolarity：正確。BCSC (Page 52) 在探討乾眼症機轉時強調，淚液高滲透壓 (tear hyperosmolarity) 會對表面上皮造成壓力，引發發炎介質釋放，是造成乾眼症與眼表損傷的核心致病機轉。\n若有filamentary keratopathy 出現，使用therapeutic soft contact lens 是禁忌(contra indication)：錯誤。BCSC (Page 127) 明確指出 BCL 可用於緩解絲狀角膜炎的疼痛症狀 (Continuous wear of a soft lens can relieve the symptoms of painful bullous or filamentary keratopathy)。雖然嚴重乾眼患者使用需小心感染風險，但並非禁忌症，甚至在許多難治型患者中是有效的輔助療法。\n使用topical cyclosporine A 0.05%時，可搭配使用短期的topical steroid：正確。BCSC (Page 65) 說明，在開始使用 topical cyclosporine (0.05% 或 0.09%) 治療中重度 ATD 時，通常會合併使用短期的局部類固醇 (1-4 週) 來初步降低眼表發炎，直到 cyclosporine 發揮長期療效。\n\n💡 核心考點統整： 1. LFU (Lacrimal Functional Unit) 結構包含：淚腺、眼表、眼瞼及負責連結的神經（感覺與運動神經）。 2. 乾眼症核心病理機轉：淚液不穩定 (tear film instability) 與淚液高滲透壓 (tear hyperosmolarity) 引發眼表面的慢性發炎反應。 3. 絲狀角膜炎 (Filamentary Keratopathy) 治療：包含局部潤滑、黏液溶解劑 (如 10% acetylcysteine)、淚管栓塞，以及治療型隱形眼鏡 (Bandage contact lenses) 或鞏膜鏡 (Scleral lenses) 等。 4. 免疫調節劑使用準則：Topical cyclosporine 作用較慢，起始治療時常規合併短期 topical corticosteroids 以快速控制發炎。",
+    "crumbs": [
+      "Section 8: Cornea",
+      "Question 828"
+    ]
+  },
+  {
+    "objectID": "section-08-cornea.html#題庫練習cornea",
+    "href": "section-08-cornea.html#題庫練習cornea",
+    "title": "Section 8: External Disease and Cornea",
+    "section": "",
+    "text": "[!IMPORTANT] 題目： (請在此處貼上 NotebookLM 抓出的 828 題題目與選項)\n\n\n\n\n\n\n\nNote💡 點擊展開 BCSC 專業解析與出處\n\n\n\n\n\n出處來源： AAO BCSC 2025-2026 E-book Section 8, page [貼上頁碼].\n原文引用： &gt; (Page [頁碼]) [貼上 NotebookLM 提供的英文原文]\n正確答案：([選項字母])\n解析： [在此貼上中文解析。注意：保留英文專有名詞，例如 Fuchs dystrophy, Descemet membrane 等。]\n各選項辨析： * ([選項 A])：[貼上對應說明] * ([選項 B])：[貼上對應說明] * ([選項 C])：[貼上對應說明] * ([選項 D])：[貼上對應說明]\n💡 核心考點統整： [在此貼上 NotebookLM 總結的臨床要點]"
+  },
+  {
+    "objectID": "template.html",
+    "href": "template.html",
+    "title": "Question 0000-0000",
+    "section": "",
+    "text": "Question [題號]\n\n[題目內容]\n\n\n\n\n\n\n\nNote💡 點擊展開 BCSC 專業解析與出處\n\n\n\n\n\n出處來源： AAO BCSC 2025-2026 E-book Section [編號], page [頁碼].\n原文引用： &gt; (Page [頁碼]) [英文原文]\n正確答案：([字母])\n解析： [中文詳解，專有名詞保留英文]\n各選項辨析： * (A)：… * (B)：… * (C)：… * (D)：…\n💡 核心考點統整： [臨床重點總結]"
+  },
+  {
+    "objectID": "section-08-Q828-971.html",
+    "href": "section-08-Q828-971.html",
+    "title": "Question 828-971",
+    "section": "",
+    "text": "Question 828\n\n角膜的葡萄糖 (glucose) 來源，大部分是從下列何處？\n(A) 淚水層 (tear film)\n(B) 房水 (aqueous humor)\n(C) 輪部血管 (limbal blood vessels)\n(D) 角膜上皮 (corneal epithelium)\n\n\n\n\n\n\n\nNote💡BCSC 專業解析與出處\n\n\n\n\n\n出處來源： AAO BCSC 2025-2026 E-book Section 8, page 9.\n原文內容：\n(Page 9) “For nutrition, the cornea depends on diffusion of glucose from the aqueous humor and diffusion of oxygen through the tear film. The peripheral cornea is supplied with oxygen from the limbal circulation.”\n正確答案：(B)\n根據 BCSC 指南，角膜為無血管組織。其維持生理功能所需的葡萄糖 (glucose) 主要依賴自後方的房水 (aqueous humor) 擴散供應；而其所需的氧氣 (oxygen) 則主要透過前方的淚水層 (tear film) 擴散取得。\n各選項解析： (A) 錯誤：淚水層的主要功能是供應氧氣，而非葡萄糖。 (B) 正確：角膜葡萄糖供應幾乎完全依賴房水的擴散作用。 (C) 錯誤：輪部血管主要供應周邊角膜的氧氣。 (D) 錯誤：角膜上皮是葡萄糖的消耗者，且具有屏障功能，無法提供葡萄糖。\n💡核心考點統整：\n\n葡萄糖來源：房水 (Aqueous humor)。\n氧氣來源：中央靠淚水層 (Tear film)，周邊靠輪部循環 (Limbal circulation)。\n\n\n\n\n\n\n\nQuestion 829\n\n有關乾眼症 (dry eye) 的敘述，下列何者錯誤？\n(A) Lacrimal functional unit 包含連結到 eyelid 的motor nerves。\n(B) Dry eye 的core mechanisms 包含 tear hyperosmolarity。\n(C) 若有 filamentary keratopathy 出現，使用 therapeutic soft contact lens 是禁忌 (contra indication)。 (D) 使用 topical cyclosporine A 0.05%時，可搭配使用短期的 topical steroid。\n\n\n\n\n\n\n\nNote💡 BCSC 專業解析與出處\n\n\n\n\n\n出處來源： AAO BCSC 2025-2026 E-book Section 8, page 65-66, 127.\n原文內容：\n(Page 65-66) “Although therapeutic bandage contact lenses may help impede filament formation, they are rarely used to reduce symptoms in patients with ATD because of the associated increased risk of infectious keratitis. Close observation is warranted in patients with ATD who wear these lenses. In contrast, scleral contact lenses have been found to be quite helpful in patients with advanced dry eye symptoms.”\n(Page 127) “Continuous wear of a soft lens can relieve the symptoms of painful bullous or filamentary keratopathy.”\n正確答案：(C)\n解析： 本題考查乾眼症 (dry eye) 及其併發症的機轉、診斷與治療原則。根據 BCSC 內容，當乾眼症嚴重到引發絲狀角膜炎 (filamentary keratopathy) 時，治療型軟式隱形眼鏡 (therapeutic soft contact lens / bandage contact lens, BCL) 並非絕對禁忌症。相反地，BCSC 明確指出連續配戴軟式隱形眼鏡可以緩解絲狀角膜炎帶來的疼痛症狀，甚至可阻礙絲狀物的形成。儘管在水液缺乏型乾眼症 (aqueous tear deficiency, ATD) 的患者中使用 BCL 確實會增加感染性角膜炎的風險，因此臨床上需謹慎使用並密切觀察（或考慮使用鞏膜鏡 scleral lenses），但這屬於相對風險，而非「禁忌 (contraindication)」。\n各選項解析：\n\nLacrimal functional unit 包含連結到eyelid 的motor nerves：正確。BCSC (Page 5) 指出，淚液功能單位 (Lacrimal functional unit, LFU) 包含淚腺、眼表（角膜與結膜）、眼瞼 (eyelids)，以及連結這些組件的感覺與運動神經 (sensory and motor nerves)。\nDry eye 的core mechanisms 包含tear hyperosmolarity：正確。BCSC (Page 52) 在探討乾眼症機轉時強調，淚液高滲透壓 (tear hyperosmolarity) 會對表面上皮造成壓力，引發發炎介質釋放，是造成乾眼症與眼表損傷的核心致病機轉。\n若有filamentary keratopathy 出現，使用therapeutic soft contact lens 是禁忌(contra indication)：錯誤。BCSC (Page 127) 明確指出 BCL 可用於緩解絲狀角膜炎的疼痛症狀 (Continuous wear of a soft lens can relieve the symptoms of painful bullous or filamentary keratopathy)。雖然嚴重乾眼患者使用需小心感染風險，但並非禁忌症，甚至在許多難治型患者中是有效的輔助療法。\n使用topical cyclosporine A 0.05%時，可搭配使用短期的topical steroid：正確。BCSC (Page 65) 說明，在開始使用 topical cyclosporine (0.05% 或 0.09%) 治療中重度 ATD 時，通常會合併使用短期的局部類固醇 (1-4 週) 來初步降低眼表發炎，直到 cyclosporine 發揮長期療效。\n\n💡 核心考點統整：\n\nLFU (Lacrimal Functional Unit) 結構包含：淚腺、眼表、眼瞼及負責連結的神經（感覺與運動神經）。\n乾眼症核心病理機轉：淚液不穩定 (tear film instability) 與淚液高滲透壓 (tear hyperosmolarity) 引發眼表面的慢性發炎反應。\n絲狀角膜炎 (Filamentary Keratopathy) 治療：包含局部潤滑、黏液溶解劑 (如 10% acetylcysteine)、淚管栓塞，以及治療型隱形眼鏡 (Bandage contact lenses) 或鞏膜鏡 (Scleral lenses) 等。\n免疫調節劑使用準則：Topical cyclosporine 作用較慢，起始治療時常規合併短期 topical corticosteroids 以快速控制發炎。\n\n\n\n\n\n\n\nQuestion 830\n\n有關 cytomegalovirus(CMV) 在眼睛的感染表現，何者正確？\n(A) CMVendothelitis 和 CMVretinitis 一樣，只好發於 immunocompromised 的病人，例如AIDS。\n(B) CMV 引起的anterior uveitis，其眼壓常因 ciliary body 功能下降而降低。\n(C) 可用 acyclovir 或valacyclovir 治療。\n(D) 屬於 human herpesviruses。\n\n\n\n\n\n\n\nNote💡 BCSC 專業解析與出處\n\n\n\n\n\n出處來源： AAO BCSC 2025-2026 E-book Section 8, page 275, 295-296.\n原文內容：\n(Page 275) “Of the 9 known human herpesviruses, those that affect the eye include herpes simplex virus types 1 and 2 (HSV-1 and HSV-2), varicella-zoster virus (VZV), Epstein-Barr virus (EBV), cytomegalovirus (CMV), and Kaposi sarcoma-associated herpesvirus (KSHV).”\n(Page 295) “The anterior uveitis is characterized by acute or chronic anterior chamber inflammation, with moderate to severe increases in IOP that are variably responsive to topical corticosteroids.”\n(Page 296) “Clinical Pearl: Cytomegalovirus (CMV)-associated anterior segment disease is treated with ganciclovir or its prodrugs and is not responsive to famciclovir or acyclovir or its derivatives.”\n正確答案：(D)\n解析： 本題測驗對於巨細胞病毒 (Cytomegalovirus, CMV) 在眼前段感染的臨床特徵、分類及治療原則。根據 BCSC 記載，CMV 屬於已知會感染人類眼睛的 9 種人類疱疹病毒 (human herpesviruses) 之一。近年來，CMV 越來越常被認為是引起 anterior uveitis 及 corneal endotheliitis 的重要致病原，其臨床表現常與一般的疱疹病毒不同，必須精準鑑別才能給予正確治療。\n各選項解析：\n\nCMVendothelitis 和CMVretinitis 一樣，只好發於immunocompromised 的病人，例如AIDS：錯誤。BCSC (Page 295) 指出，雖然 CMV 引起的 necrotizing retinitis 幾乎專見於 AIDS 等免疫不全患者，但 CMV endotheliitis 與 anterior uveitis 也會發生在免疫功能正常或局部免疫改變（如接受角膜移植出現排斥反應）的患者中，甚至常被誤診為 Posner-Schlossman syndrome (glaucomatocyclitic crisis)，並非「只」好發於免疫不全者。\nCMV 引起的anterior uveitis，其眼壓常因ciliary body 功能下降而降低：錯誤。根據 BCSC (Page 295)，CMV 引起的 anterior uveitis 特徵為急性或慢性的前房發炎，並伴隨中度至重度的眼壓升高 (moderate to severe increases in IOP)，而非降低。\n可用acyclovir 或valacyclovir 治療：錯誤。BCSC (Page 296) 在 Clinical Pearl 中特別強調，CMV 相關的眼前段疾病必須使用 ganciclovir 或其前驅藥物 (valganciclovir) 治療，且對 famciclovir 或 acyclovir 及其衍生物沒有反應 (not responsive)。若臨床上懷疑是 HSV 感染卻對 acyclovir 產生抗藥性時，就必須高度懷疑是 CMV 感染。\n屬於human herpesviruses：正確。CMV 屬於人類疱疹病毒的一員。\n\n💡 核心考點統整：\n\n病原學分類：CMV 為雙股 DNA 病毒，屬於 Human herpesviruses 家族。\n\n臨床表現鑑別：CMV 前段感染 (anterior uveitis 與 corneal endotheliitis) 會出現角膜內皮細胞減少、局部或廣泛角膜水腫、以及眼壓顯著上升。這類表現極易與 HSV endotheliitis、角膜移植排斥反應或 Posner-Schlossman syndrome 混淆。\n\n特異性用藥準則：與 HSV/VZV 首選 Acyclovir/Valacyclovir 不同，CMV 具特異性抗藥性，必須使用 Ganciclovir 或 Valganciclovir 治療。\n\n\n\n\n\n\n\n\nQuestion 831\n\n下列有關阿米巴角膜炎 (Acanthamoeba keratitis) 的敘述為非？\n(A) 初期表現，常可看到 ring infiltrate。\n(B) Biguanide 藥物，如 chlorhexidine, 對 cysts 和 trophozoites 都有效。\n(C) Radial perineuritis 為特徵性的 pathognomonic 表現。\n(D) 病人常有嚴重疼痛感。\n\n\n\n\n\n\n\nNote💡 BCSC 專業解析與出處\n\n\n\n\n\n出處來源： AAO BCSC 2025-2026 E-book Section 8, page 335-337.\n原文內容：\n(Page 335-336) “In the early stage, infection with Acanthamoeba is localized to, or just posterior to the corneal epithelium and may present as diffuse epitheliopathy with coarse punctate features, subepithelial opacities, or dendritic epithelial lesions. … As the disease progresses, a partial or complete central ring infiltrate is often noted.”\n正確答案：(A)\n解析： 本題測驗對於阿米巴角膜炎 (Acanthamoeba keratitis) 的臨床表現與治療原則。根據 BCSC 記載，阿米巴角膜炎在「初期 (early stage)」的表現主要侷限於角膜上皮或上皮後方，呈現瀰漫性上皮病變、粗大點狀特徵、上皮下混濁或樹枝狀上皮病灶（常被誤診為 HSV）。而經典的「環狀浸潤 (ring infiltrate)」是在疾病「進展到中後期 (As the disease progresses)」才會出現的徵象。因此選項 (A) 敘述為非。\n各選項解析：\n\n初期表現，常可看到ring infiltrate：錯誤。BCSC (Page 335-336) 說明 ring infiltrate 屬於晚期進展 (As the disease progresses) 的表現；初期的病灶主要是上皮層與上皮下的點狀或假樹枝狀病變。\nBiguanide 藥物，如chlorhexidine, 對cysts 和trophozoites 都有效：正確。BCSC (Page 337) 記載 Biguanides 類藥物（包含 polyhexamethylene biguanide [PHMB] 與 chlorhexidine）在體外與臨床上對活動體 (trophozoites) 與囊體 (cysts) 均具有一致的療效，是目前藥物治療的主力。\nRadial perineuritis 為特徵性的pathognomonic 表現：正確。BCSC (Page 335) 明確指出，若觀察到發炎的角膜神經（稱為放射狀神經周圍炎 radial perineuritis 或 radial keratoneuritis），是阿米巴角膜炎近乎特異性 (nearly pathognomonic) 的表現。\n病人常有嚴重疼痛感：正確。BCSC (Page 335) 提到其典型症狀之一為「嚴重眼痛，且疼痛程度常超出臨床理學檢查的預期 (severe ocular pain that is greater than expected from clinical findings)」。\n\n💡 核心考點統整：\n阿米巴角膜炎 (Acanthamoeba keratitis) 的核心臨床特徵與病程：\n1. 風險因子：配戴隱形眼鏡（尤其是接觸生水、自來水或熱水浴缸）。\n2. 典型症狀：與理學檢查嚴重度不相符的劇烈疼痛 (pain out of proportion to clinical findings)。\n3. 初期徵象：上皮粗糙點狀病變、上皮下混濁、假性樹枝狀病灶 (pseudodendrites，極易被誤診並當作 HSV 使用抗病毒藥物治療)。\n4. 特異性徵象：放射狀神經周圍炎 (radial perineuritis)。\n5. 晚期徵象：中央環狀浸潤 (ring infiltrate)。\n6. 首選治療：Biguanides (如 PHMB, chlorhexidine)，因其能同時有效殺滅 trophozoites 與難纏的休眠 cysts。\n\n\n\n\n\n\nQuestion 832\n\n下列有關 vernal keratoconjunctivitis (VKC) 的敘述何者為非？\n(A) 嚴重的患者可見 upper tarsus 有 cobblestones ，為 giant papillae 。\n(B) 下方角膜常可見 shield ulcer 。\n(C) 也可能出現 limbal VKC ，例如 Horner-Trantas dots 。\n(D) 比起 AKC (atopic keratoconjunctivitis) ， VKC 的病患較年輕。\n\n\n\n\n\n\n\nNote💡 BCSC 專業解析與出處\n\n\n\n\n\n出處來源： AAO BCSC 2025-2026 E-book Section 8, page 349.\n原文內容：\n(Page 349) “Oval-shaped noninfectious ulcers, called shield ulcers, may form in the superior or central cornea as a result of constant rubbing of superior tarsal giant papillae against the corneal epithelium, as well as secretion of cytotoxic agents (major basic protein and eosinophilic cationic protein) by eosinophils.”\n正確答案：(B)\n解析：\n本題測驗對於春季角結膜炎 (vernal keratoconjunctivitis, VKC) 的臨床表徵。根據 BCSC 記載，盾狀潰瘍 (shield ulcer) 通常形成於「上方或中央」 (superior or central) 角膜，而非下方角膜。其學理成因是因為上眼瞼 (upper eyelid) 的巨大乳突 (giant papillae) 不斷摩擦角膜上皮，加上嗜酸性球 (eosinophils) 分泌的細胞毒性物質（如 major basic protein 與 eosinophilic cationic protein）沉積於裸露的基質層所致。因此，選項 (B) 稱「下方角膜」常可見 shield ulcer 是錯誤的描述。\n各選項解析：\n(A)：敘述正確。 BCSC 說明在較嚴重的 palpebral VKC 患者中，上瞼結膜 (upper tarsus) 會出現類似鵝卵石 (cobblestones) 的巨大乳突 (giant papillae)。\n(C)：敘述正確。 BCSC 指出 VKC 包含 limbal VKC 型態，其特徵為角膜緣呈現增厚、膠狀外觀，並可見 Horner-Trantas dots （由嗜酸性球與上皮細胞聚集而成的乳白色斑點）。\n(D)：敘述正確。根據 BCSC 中的 Table 13-2 比較表， VKC 好發於兒童至年輕成人（2-22歲），而 AKC 則好發於成年人（20-50歲），因此 VKC 的病患族群確實較為年輕。\n💡 核心考點統整：\n春季角結膜炎 (VKC) 與異位性角結膜炎 (AKC) 的核心鑑別點： 1. 年齡與病程： VKC 好發於兒童至年輕成人（2-22歲），具季節性（春夏季）； AKC 好發於成人（20-50歲），為全年性發作。 2. 乳突特徵 (Papillae)： VKC 在上瞼結膜容易出現巨大乳突 (giant papillae / cobblestones) ； AKC 則為上下瞼結膜的中小型乳突 (small to medium-size papillae)。 3. 角膜周邊表徵： VKC 具有獨特的 limbal form ，可見 Horner-Trantas dots ； AKC 則無此特徵。 4. 角膜併發症： VKC 會因上方巨大乳突摩擦而於上方/中央角膜產生 shield ulcer ； AKC 則常因慢性表皮疾病與眼瞼結構改變，導致角膜新生血管 (vascularization) 與混濁。\n\n\n\n\n\n\nQuestion 833\n\n833 下列有關 conjunctival intraepithelial neoplasia (CIN) 的敘述為非？\n(A) Dysplasia 的厚度不超過 basement membrane 。\n(B) HPV 感染為 risk factor 之一。\n(C) Chemotherapy ，如局部使用 interferon-α2b ， MMC ，或 5FU 的療效很差。\n(D) 有 leukoplakic, gelatinous, papilli form 三種表現型。\n\n\n\n\n\n\n\nNote💡 BCSC 專業解析與出處\n\n\n\n\n\n出處來源： AAO BCSC 2025-2026 E-book Section 8, page 392-393, 396.\n原文內容：\n(Page 396) “Lesions that are growing or suggestive of malignancy should be treated with surgical excision and/or topical chemotherapy. Success rates for treatment with topical MMC or 5-FU are similar at more than 85%, comparable to success rates seen with wide-margin surgical excision followed by cryotherapy.”\n正確答案：(C)\n解析：\n本題測驗對於結膜上皮內腫瘤 (conjunctival intraepithelial neoplasia, CIN) 的治療與臨床特徵。選項 (C) 敘述為非，因為根據 BCSC 記載，局部化學治療 (topical chemotherapy) 如使用 MMC 或 5-FU （以及 interferon-α2b ）的成功率極高，超過 85% 以上，其療效與大範圍手術切除合併冷凍治療 (cryotherapy) 相當，因此療效並非「很差」。\n各選項解析：\n(A)：敘述正確。 BCSC (Page 392) 指出，在 CIN 中，發育不良 (dysplasia) 的過程並未侵犯底層的基底膜 (basement membrane) 。一旦病灶穿透基底膜，則進展為侵襲性的 squamous cell carcinoma (SCC) 。\n(B)：敘述正確。 BCSC (Page 392) 明確將人類乳突病毒 (human papillomavirus, HPV) 感染列為 ocular surface squamous neoplasia (OSSN) （包含 CIN ）的風險因子 (risk factors) 之一，其他還包含紫外線暴露、吸菸、高齡、男性以及免疫抑制 (如 HIV) 。\n(C)：敘述錯誤，為本題正確答案。 BCSC (Page 396) 指出局部化學治療（包含 5-FU 、 MMC 或 IFN-α2b ）的成功率高達 85% 以上，是非常有效的第一線治療選擇 。\n(D)：敘述正確。 BCSC (Page 393) 說明 OSSN 有三種主要的臨床變異型 (clinical variants) ，分別為 papilliform (乳突狀) 、 gelatinous (膠狀) 與 leukoplakic (白斑狀) 。\n💡 核心考點統整：\n結膜上皮內腫瘤 (CIN) 屬於眼表鱗狀細胞腫瘤 (ocular surface squamous neoplasia, OSSN) 的非侵襲性階段，其核心考點包含： 1. 病理特徵：細胞發育不良 (dysplasia) 侷限於上皮層，未侵犯基底膜 (basement membrane) 。 2. 風險因子 (Risk Factors)：包含紫外線暴露 (UV light) 、 HPV 感染、免疫抑制 (如 HIV 感染) 、吸菸與年長。 3. 臨床型態：表現型可分為 papilliform 、 gelatinous 與 leukoplakic 三種。 4. 治療準則：局部化學治療 (如 5-FU 、 MMC 或 IFN-α2b) 是極具療效的替代或輔助療法，成功率超過 85% ，與傳統的無接觸 (no-touch) 廣泛手術切除合併冷凍治療效果相當，且可避免切除過多組織導致的輪部幹細胞缺乏 (limbal stem cell deficiency) 。",
+    "crumbs": [
+      "Section-08",
+      "Question 828-971"
+    ]
+  },
+  {
+    "objectID": "section-10-Q1139-1290.html",
+    "href": "section-10-Q1139-1290.html",
+    "title": "Question 1139-1290",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-10",
+      "Question 1139-1290"
+    ]
+  },
+  {
+    "objectID": "section-09-Q972-1138.html",
+    "href": "section-09-Q972-1138.html",
+    "title": "Question 972-1138",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-09",
+      "Question 972-1138"
+    ]
+  },
+  {
+    "objectID": "section-08-Q708-827.html",
+    "href": "section-08-Q708-827.html",
+    "title": "Question 708-807",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-07",
+      "Question 708-807"
+    ]
+  },
+  {
+    "objectID": "section-08-Q708-827.html#內容錄入中",
+    "href": "section-08-Q708-827.html#內容錄入中",
+    "title": "Question 708-807",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-07",
+      "Question 708-807"
+    ]
+  },
+  {
+    "objectID": "section-07-Q708-827.html",
+    "href": "section-07-Q708-827.html",
+    "title": "Question 708-807",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-07",
+      "Question 708-807"
+    ]
+  },
+  {
+    "objectID": "section-07-Q708-827.html#內容錄入中",
+    "href": "section-07-Q708-827.html#內容錄入中",
+    "title": "Question 708-807",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-07",
+      "Question 708-807"
+    ]
+  },
+  {
+    "objectID": "section-06-Q541-707.html",
+    "href": "section-06-Q541-707.html",
+    "title": "Question 541-707",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-06",
+      "Question 541-707"
+    ]
+  },
+  {
+    "objectID": "section-06-Q541-707.html#內容錄入中",
+    "href": "section-06-Q541-707.html#內容錄入中",
+    "title": "Question 541-707",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-06",
+      "Question 541-707"
+    ]
+  },
+  {
+    "objectID": "section-03-Q204-294.html",
+    "href": "section-03-Q204-294.html",
+    "title": "Question 204-294",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-03",
+      "Question 204-294"
+    ]
+  },
+  {
+    "objectID": "section-03-Q204-294.html#內容錄入中",
+    "href": "section-03-Q204-294.html#內容錄入中",
+    "title": "Question 204-294",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-03",
+      "Question 204-294"
+    ]
+  },
+  {
+    "objectID": "section-04-Q295-395.html",
+    "href": "section-04-Q295-395.html",
+    "title": "Question 295-395",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-04",
+      "Question 295-395"
+    ]
+  },
+  {
+    "objectID": "section-04-Q295-395.html#內容錄入中",
+    "href": "section-04-Q295-395.html#內容錄入中",
+    "title": "Question 295-395",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-04",
+      "Question 295-395"
+    ]
+  },
+  {
+    "objectID": "section-05-Q396-540.html",
+    "href": "section-05-Q396-540.html",
+    "title": "Question 396-540",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-05",
+      "Question 396-540"
+    ]
+  },
+  {
+    "objectID": "section-05-Q396-540.html#內容錄入中",
+    "href": "section-05-Q396-540.html#內容錄入中",
+    "title": "Question 396-540",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-05",
+      "Question 396-540"
+    ]
+  },
+  {
+    "objectID": "section-11-Q1291-1431.html",
+    "href": "section-11-Q1291-1431.html",
+    "title": "Question 1291-1431",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-11",
+      "Question 1291-1431"
+    ]
+  },
+  {
+    "objectID": "section-11-Q1291-1431.html#內容錄入中",
+    "href": "section-11-Q1291-1431.html#內容錄入中",
+    "title": "Question 1291-1431",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-11",
+      "Question 1291-1431"
+    ]
+  },
+  {
+    "objectID": "section-10-Q1139-1290.html#內容錄入中",
+    "href": "section-10-Q1139-1290.html#內容錄入中",
+    "title": "Question 1139-1290",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-10",
+      "Question 1139-1290"
+    ]
+  },
+  {
+    "objectID": "section-09-Q972-1138.html#內容錄入中",
+    "href": "section-09-Q972-1138.html#內容錄入中",
+    "title": "Question 972-1138",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-09",
+      "Question 972-1138"
+    ]
+  },
+  {
+    "objectID": "section-13-Q1564-1651.html",
+    "href": "section-13-Q1564-1651.html",
+    "title": "Question 1564-1651",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-13",
+      "Question 1564-1651"
+    ]
+  },
+  {
+    "objectID": "section-13-Q1564-1651.html#內容錄入中",
+    "href": "section-13-Q1564-1651.html#內容錄入中",
+    "title": "Question 1564-1651",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-13",
+      "Question 1564-1651"
+    ]
+  },
+  {
+    "objectID": "section-12-Q1432-1563.html",
+    "href": "section-12-Q1432-1563.html",
+    "title": "Question 1432-1563",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-12",
+      "Question 1432-1563"
+    ]
+  },
+  {
+    "objectID": "section-12-Q1432-1563.html#內容錄入中",
+    "href": "section-12-Q1432-1563.html#內容錄入中",
+    "title": "Question 1432-1563",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-12",
+      "Question 1432-1563"
+    ]
+  },
+  {
+    "objectID": "section-02-Q91-203.html",
+    "href": "section-02-Q91-203.html",
+    "title": "Question 91-203",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-02",
+      "Question 91-203"
+    ]
+  },
+  {
+    "objectID": "section-02-Q91-203.html#內容錄入中",
+    "href": "section-02-Q91-203.html#內容錄入中",
+    "title": "Question 91-203",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-02",
+      "Question 91-203"
+    ]
+  },
+  {
+    "objectID": "section-01-Q1-90.html",
+    "href": "section-01-Q1-90.html",
+    "title": "Question 1-90",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-01",
+      "Question 1-90"
+    ]
+  },
+  {
+    "objectID": "section-01-Q1-90.html#內容錄入中",
+    "href": "section-01-Q1-90.html#內容錄入中",
+    "title": "Question 1-90",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-01",
+      "Question 1-90"
+    ]
+  },
+  {
+    "objectID": "section-01-Q1652-1657.html",
+    "href": "section-01-Q1652-1657.html",
+    "title": "Question 1652-1657",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-01",
+      "Question 1652-1657"
+    ]
+  },
+  {
+    "objectID": "section-01-Q1652-1657.html#內容錄入中",
+    "href": "section-01-Q1652-1657.html#內容錄入中",
+    "title": "Question 1652-1657",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-01",
+      "Question 1652-1657"
+    ]
+  },
+  {
+    "objectID": "section-03-Q1663-1672.html",
+    "href": "section-03-Q1663-1672.html",
+    "title": "Question 1663-1672",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。"
+  },
+  {
+    "objectID": "section-03-Q1663-1672.html#內容錄入中",
+    "href": "section-03-Q1663-1672.html#內容錄入中",
+    "title": "Question 1663-1672",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。"
+  },
+  {
+    "objectID": "section-02-Q1658-1662.html",
+    "href": "section-02-Q1658-1662.html",
+    "title": "Question 1658-1662",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。"
+  },
+  {
+    "objectID": "section-02-Q1658-1662.html#內容錄入中",
+    "href": "section-02-Q1658-1662.html#內容錄入中",
+    "title": "Question 1658-1662",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。"
+  },
+  {
+    "objectID": "section-13-Q1762-1774.html",
+    "href": "section-13-Q1762-1774.html",
+    "title": "Question 1753-1761",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-13",
+      "Question 1753-1761"
+    ]
+  },
+  {
+    "objectID": "section-13-Q1762-1774.html#內容錄入中",
+    "href": "section-13-Q1762-1774.html#內容錄入中",
+    "title": "Question 1753-1761",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-13",
+      "Question 1753-1761"
+    ]
+  },
+  {
+    "objectID": "section-11-Q1743-1752.html",
+    "href": "section-11-Q1743-1752.html",
+    "title": "Question 1743-1752",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-11",
+      "Question 1743-1752"
+    ]
+  },
+  {
+    "objectID": "section-11-Q1743-1752.html#內容錄入中",
+    "href": "section-11-Q1743-1752.html#內容錄入中",
+    "title": "Question 1743-1752",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-11",
+      "Question 1743-1752"
+    ]
+  },
+  {
+    "objectID": "section-09-Q1719-1729.html",
+    "href": "section-09-Q1719-1729.html",
+    "title": "Question 1719-1729",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-09",
+      "Question 1719-1729"
+    ]
+  },
+  {
+    "objectID": "section-09-Q1719-1729.html#內容錄入中",
+    "href": "section-09-Q1719-1729.html#內容錄入中",
+    "title": "Question 1719-1729",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-09",
+      "Question 1719-1729"
+    ]
+  },
+  {
+    "objectID": "section-07-Q1695-1708.html",
+    "href": "section-07-Q1695-1708.html",
+    "title": "Question 1695-1708",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-07",
+      "Question 1695-1708"
+    ]
+  },
+  {
+    "objectID": "section-07-Q1695-1708.html#內容錄入中",
+    "href": "section-07-Q1695-1708.html#內容錄入中",
+    "title": "Question 1695-1708",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-07",
+      "Question 1695-1708"
+    ]
+  },
+  {
+    "objectID": "section-05-Q1678-1686.html",
+    "href": "section-05-Q1678-1686.html",
+    "title": "Question 1678-1686",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-05",
+      "Question 1678-1686"
+    ]
+  },
+  {
+    "objectID": "section-05-Q1678-1686.html#內容錄入中",
+    "href": "section-05-Q1678-1686.html#內容錄入中",
+    "title": "Question 1678-1686",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-05",
+      "Question 1678-1686"
+    ]
+  },
+  {
+    "objectID": "section-04-Q1673-1677.html",
+    "href": "section-04-Q1673-1677.html",
+    "title": "Question 1673-1677",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-04",
+      "Question 1673-1677"
+    ]
+  },
+  {
+    "objectID": "section-04-Q1673-1677.html#內容錄入中",
+    "href": "section-04-Q1673-1677.html#內容錄入中",
+    "title": "Question 1673-1677",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-04",
+      "Question 1673-1677"
+    ]
+  },
+  {
+    "objectID": "section-06-Q1687-1694.html",
+    "href": "section-06-Q1687-1694.html",
+    "title": "Question 1687-1694",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-06",
+      "Question 1687-1694"
+    ]
+  },
+  {
+    "objectID": "section-06-Q1687-1694.html#內容錄入中",
+    "href": "section-06-Q1687-1694.html#內容錄入中",
+    "title": "Question 1687-1694",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-06",
+      "Question 1687-1694"
+    ]
+  },
+  {
+    "objectID": "section-08-Q1709-1718.html",
+    "href": "section-08-Q1709-1718.html",
+    "title": "Question 1709-1718",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-08",
+      "Question 1709-1718"
+    ]
+  },
+  {
+    "objectID": "section-08-Q1709-1718.html#內容錄入中",
+    "href": "section-08-Q1709-1718.html#內容錄入中",
+    "title": "Question 1709-1718",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-08",
+      "Question 1709-1718"
+    ]
+  },
+  {
+    "objectID": "section-10-Q1730-1742.html",
+    "href": "section-10-Q1730-1742.html",
+    "title": "Question 1730-1742",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-10",
+      "Question 1730-1742"
+    ]
+  },
+  {
+    "objectID": "section-10-Q1730-1742.html#內容錄入中",
+    "href": "section-10-Q1730-1742.html#內容錄入中",
+    "title": "Question 1730-1742",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-10",
+      "Question 1730-1742"
+    ]
+  },
+  {
+    "objectID": "section-12-Q1753-1761.html",
+    "href": "section-12-Q1753-1761.html",
+    "title": "Question 1753-1761",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-12",
+      "Question 1753-1761"
+    ]
+  },
+  {
+    "objectID": "section-12-Q1753-1761.html#內容錄入中",
+    "href": "section-12-Q1753-1761.html#內容錄入中",
+    "title": "Question 1753-1761",
+    "section": "",
+    "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
+    "crumbs": [
+      "Section-12",
+      "Question 1753-1761"
+    ]
+  }
+]
