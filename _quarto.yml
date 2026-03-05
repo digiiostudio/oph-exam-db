@@ -2,7 +2,17 @@ project:
   type: website
 
 website:
-  title: "OphExam-QuartoDB"
+  favicon: logo.png
+  title: "OphExamDB"
+  navbar:
+    background: primary              # 使用主題主色
+    search: true                     # 讓搜尋框直接出現在導覽列
+    left:
+      - text: "Project OphExamDB"        # 左側顯示專案名稱
+        href: index.qmd
+    right:
+      - icon: github
+        href: https://github.com/digiiostudio/oph-exam-db
   sidebar:
     style: "floating"
     search: true
