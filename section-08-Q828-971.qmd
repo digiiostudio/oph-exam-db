@@ -38,7 +38,7 @@ title: "Question 828-971"
 > 有關乾眼症 (dry eye) 的敘述，下列何者錯誤？\
 > (A) Lacrimal functional unit 包含連結到 eyelid 的motor nerves。\
 > (B) Dry eye 的core mechanisms 包含 tear hyperosmolarity。\
-> (C) 若有 filamentary keratopathy 出現，使用 therapeutic soft contact lens 是禁忌 (contra indication)。\
+> (C) 若有 filamentary keratopathy 出現，使用 therapeutic soft contact lens 是禁忌 (contra indication)。\  
 > (D) 使用 topical cyclosporine A 0.05%時，可搭配使用短期的 topical steroid。
 
 ::: {.callout-note collapse="true" icon="false"}
@@ -204,7 +204,7 @@ title: "Question 828-971"
 
 # Question 833
 
-> 833 下列有關 conjunctival intraepithelial neoplasia (CIN) 的敘述為非？\
+> 下列有關 conjunctival intraepithelial neoplasia (CIN) 的敘述為非？\
 > (A) Dysplasia 的厚度不超過 basement membrane 。\
 > (B) HPV 感染為 risk factor 之一。\
 > (C) Chemotherapy ，如局部使用 interferon-α2b ， MMC ，或 5FU 的療效很差。\
