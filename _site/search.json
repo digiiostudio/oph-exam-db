@@ -277,7 +277,8 @@
     "section": "",
     "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
     "crumbs": [
-      "Section-01",
+      "Project OphExamDB",
+      "S-01",
       "Question 1-90"
     ]
   },
@@ -288,7 +289,8 @@
     "section": "",
     "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
     "crumbs": [
-      "Section-01",
+      "Project OphExamDB",
+      "S-01",
       "Question 1-90"
     ]
   },
@@ -299,20 +301,21 @@
     "section": "",
     "text": "About this site",
     "crumbs": [
-      "基礎與分冊指引",
+      "Project OphExamDB",
+      "AAO-BCSC",
       "About"
     ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "OphExam-QuartoDB",
+    "title": "OphExam-DB",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "text": "This is a Quarto website.",
     "crumbs": [
       "Project OphExamDB",
-      "基礎與分冊指引",
-      "OphExam-QuartoDB"
+      "AAO-BCSC",
+      "OphExam-DB"
     ]
   },
   {
@@ -344,7 +347,8 @@
     "section": "",
     "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
     "crumbs": [
-      "Section-02",
+      "Project OphExamDB",
+      "S-02",
       "Question 91-203"
     ]
   },
@@ -355,7 +359,8 @@
     "section": "",
     "text": "本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。",
     "crumbs": [
-      "Section-02",
+      "Project OphExamDB",
+      "S-02",
       "Question 91-203"
     ]
   },
