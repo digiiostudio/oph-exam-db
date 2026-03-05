@@ -1,5 +1,5 @@
 ---
-title: "OphExam-QuartoDB"
+title: "OphExam-DB"
 ---
 
 This is a Quarto website.
