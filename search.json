@@ -352,7 +352,19 @@
     "href": "index.html",
     "title": "OphExam-DB",
     "section": "",
-    "text": "This is a Quarto website.",
+    "text": "不僅是一個題庫，它是一個針對 BCSC (Basic and Clinical Science Course) 龐大知識體系所建構的「數位第二大腦」。在醫學資訊爆炸的時代，傳統的 PDF 或紙本講義已難以應付高效率的檢索與複習需求。本專案透過 Quarto 與 Git 技術，將 1774 題核心試題進行「結構化」重組，旨在達成以下目標：\n\n\n\n瞬時檢索：透過頂部搜尋列，醫師可於診間空檔秒速定位特定疾病（如 Cornea, Glaucoma）之相關考點。\n深層辨析：每個題目均掛載「BCSC 專業解析」摺疊區塊，確保閱覽時能專注於題目，需要時再展開深度邏輯。\n跨平台交互：從桌機、平板到手機，提供一致的現代化閱讀體驗，支援將網頁「加入主畫面」作為專屬 App 使用。\n\n\n[ 進入左側選單開始檢索 ]",
+    "crumbs": [
+      "Project OphExamDB",
+      "AAO-BCSC",
+      "OphExam-DB"
+    ]
+  },
+  {
+    "objectID": "index.html#眼科醫學考題的結構化",
+    "href": "index.html#眼科醫學考題的結構化",
+    "title": "OphExam-DB",
+    "section": "",
+    "text": "不僅是一個題庫，它是一個針對 BCSC (Basic and Clinical Science Course) 龐大知識體系所建構的「數位第二大腦」。在醫學資訊爆炸的時代，傳統的 PDF 或紙本講義已難以應付高效率的檢索與複習需求。本專案透過 Quarto 與 Git 技術，將 1774 題核心試題進行「結構化」重組，旨在達成以下目標：\n\n\n\n瞬時檢索：透過頂部搜尋列，醫師可於診間空檔秒速定位特定疾病（如 Cornea, Glaucoma）之相關考點。\n深層辨析：每個題目均掛載「BCSC 專業解析」摺疊區塊，確保閱覽時能專注於題目，需要時再展開深度邏輯。\n跨平台交互：從桌機、平板到手機，提供一致的現代化閱讀體驗，支援將網頁「加入主畫面」作為專屬 App 使用。\n\n\n[ 進入左側選單開始檢索 ]",
     "crumbs": [
       "Project OphExamDB",
       "AAO-BCSC",
