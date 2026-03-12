@@ -1,6 +1,7 @@
 ---
 title: "Question 828-971"
 ---
+------------------------------------------------------------------------
 
 # Question 828
 
@@ -39,7 +40,7 @@ title: "Question 828-971"
 > (A) Lacrimal functional unit 包含連結到 eyelid 的motor nerves。\
 > (B) Dry eye 的core mechanisms 包含 tear hyperosmolarity。\
 > (C) 若有 filamentary keratopathy 出現，使用 therapeutic soft contact lens 是禁忌\
-> (contra indication)。\  
+> (contra indication)。\    
 > (D) 使用 topical cyclosporine A 0.05%時，可搭配使用短期的 topical steroid。
 
 ::: {.callout-note collapse="true" icon="false"}
@@ -240,3 +241,174 @@ title: "Question 828-971"
 
 結膜上皮內腫瘤 (CIN) 屬於眼表鱗狀細胞腫瘤 (ocular surface squamous neoplasia, OSSN) 的非侵襲性階段，其核心考點包含： 1. **病理特徵**：細胞發育不良 (dysplasia) 侷限於上皮層，未侵犯基底膜 (basement membrane) 。 2. **風險因子 (Risk Factors)**：包含紫外線暴露 (UV light) 、 HPV 感染、免疫抑制 (如 HIV 感染) 、吸菸與年長。 3. **臨床型態**：表現型可分為 papilliform 、 gelatinous 與 leukoplakic 三種。 4. **治療準則**：局部化學治療 (如 5-FU 、 MMC 或 IFN-α2b) 是極具療效的替代或輔助療法，成功率超過 85% ，與傳統的無接觸 (no-touch) 廣泛手術切除合併冷凍治療效果相當，且可避免切除過多組織導致的輪部幹細胞缺乏 (limbal stem cell deficiency) 。
 :::
+
+------------------------------------------------------------------------
+
+# Question 834
+
+> 下列何者為非？\
+> (A) Congenital glaucoma 的 descemet membrane(DM) tears 叫作 Haab striae。\
+> (B) Birth trauma 後的 descemetmembrane(DM) tears 癒合後會留下 DM 的 hypertrophic ridge。\
+> (C) Keratoconus 病患可能出現 DM tear，可形成 acute hydrops。\
+> (D) Keratoconus 病患的 DM tear 須接受角膜移植，視力才可能恢復。
+
+::: {.callout-note collapse="true" icon="false"}
+### 💡 BCSC 專業解析與出處
+
+出處來源： AAO BCSC 2025-2026 E-book Section 8, page 176, 218, 224.
+
+**原文內容：**
+
+(Page 218) "Acute hydrops is the sudden onset of corneal edema that results from rupture of Descemet membrane... Corneal edema typically clears within 3 months but can lead to posterior stromal scarring."
+
+(Page 224) "Corneal hydrops is treated conservatively with topical hypertonic agents and/or a soft contact lens for several months after onset... Hydrops is not an indication for urgent keratoplasty."
+
+**正確答案：(D)**
+
+**正確答案解析：**
+
+本題測驗圓錐角膜 (keratoconus) 併發急性角膜水腫 (acute hydrops) 的臨床處置原則。選項 (D) 敘述為非，因為根據 BCSC 記載，急性角膜水腫通常會在 3 個月內自行消退 [1]。在急性期，主要採取保守治療 (conservative treatment) ，包含給予局部高張藥劑 (topical hypertonic agents) 、配戴軟式隱形眼鏡 (soft contact lens) 數個月，也可使用睫狀肌麻痺劑與局部類固醇來緩解發炎與疼痛 [2]。 BCSC 特別強調，急性角膜水腫「並非」緊急角膜移植 (urgent keratoplasty) 的適應症 [2]。待水腫消退後，視力有機會恢復，且後基質層的結疤有時反而會使角膜弧度變平，進而改善隱形眼鏡的配戴效果；唯有在後續疤痕嚴重影響視力且無法以隱形眼鏡矯正時，才需要考慮角膜移植。
+
+{{< pagebreak >}}
+**其餘選項解析：**
+
+(A)：敘述正確。 BCSC (Page 176) 指出，原發性先天性青光眼 (primary congenital glaucoma) 會因為角膜過度伸展，導致降落傘膜 (Descemet membrane) 產生急性破裂。這類破裂通常呈水平或與角膜緣同心圓方向，在臨床上被稱為 Haab striae [3, 4]。\
+(B)：敘述正確。 BCSC (Page 176) 說明，產傷 (birth trauma) 也會造成 Descemet membrane 與角膜內皮的破裂，但其走向通常呈垂直 (vertical) 或傾斜 (oblique) ；這些破裂在癒合後，會留下 Descemet membrane 的肥厚性隆起 (hypertrophic ridge) [5]。\
+(C)：敘述正確。 BCSC (Page 218) 提到，在圓錐角膜病患中，Descemet membrane 的破裂會導致房水大量進入角膜基質層，形成突發性的急性角膜水腫 (acute hydrops) ，這通常發生在疾病的晚期階段 [1]。
+
+**💡 核心考點統整：**
+
+針對 **Descemet membrane (DM) tears** 的鑑別診斷與處置，眼科醫師需熟記以下核心觀念：\
+1. **先天性青光眼 (Congenital Glaucoma)**：破裂紋稱為 **Haab striae** ，走向多為「水平 (horizontal)」或「同心圓狀 (concentric)」。\
+2. **產傷 (Birth Trauma)**：破裂紋多為「垂直 (vertical)」或「傾斜 (oblique)」，且癒合後會形成特徵性的 **hypertrophic ridge** 。\
+3. **圓錐角膜 (Keratoconus)**： DM tear 會引發 **acute hydrops**。核心處置為「保守治療」，給予高張食鹽水或 BCL 緩解症狀，水腫多在 3 個月內消退，**絕對不是**緊急角膜移植的適應症。
+:::
+
+------------------------------------------------------------------------
+
+# Question 835
+
+> 下列有關 Scleritis 的敘述，何者為非？\
+> (A) Diffused 或 Nodular Scleritis 的病人中有 1/3 可能有 aboveconnective tissue 或\
+> autoimmue disease。\
+> (B) Necrotizing scleritis 的病人中有 2/3 可能有 connective tissue 或 autoimmue disease。\
+> (C) 從外觀顏色上無法和 episcleritis 作鑑別診斷。\
+> (D) 長期 rheumatoid arthritis 的病患可能出現 scleromalacia perforans。
+
+::: {.callout-note collapse="true" icon="false"}
+### 💡 BCSC 專業解析與出處
+
+**出處來源**： AAO BCSC 2025-2026 E-book Section 8, page 376, 378-379.
+
+**原文內容：**
+(Page 376) "The inflamed episclera is characteristically bright red or salmon pink in natural light, unlike the violaceous darker hue seen in most forms of scleritis."
+
+**正確答案：(C)**
+
+**正確答案解析：**
+
+本題測驗鞏膜炎 (scleritis) 與表層鞏膜炎 (episcleritis) 的臨床鑑別診斷。選項 (C) 敘述為非，因為根據 BCSC 記載，這兩者是「可以」透過外觀顏色進行初步鑑別的。表層鞏膜炎 (episcleritis) 發炎時在自然光下呈現特徵性的鮮紅色 (bright red) 或鮭魚粉色 (salmon pink) ；相反地，大多數型態的鞏膜炎 (scleritis) 則會呈現較深的紫紅色色調 (violaceous darker hue)。因此，外觀顏色是臨床上極為重要的鑑別線索。
+
+{{< pagebreak >}} 
+**其餘選項解析：**
+
+(A)：敘述正確。 BCSC (Page 378) 明確指出，大約三分之一 (one-third) 患有 diffuse 或 nodular scleritis 的病人，可以檢測出患有自體免疫結締組織疾病 (autoimmune connective tissue disease)。\
+(B)：敘述正確。 BCSC (Page 378) 同段落亦指出，有高達三分之二 (two-thirds) 患有 necrotizing scleritis 的病人合併有自體免疫結締組織疾病。\
+(D)：敘述正確。 BCSC (Page 379) 說明，沒有明顯發炎跡象的壞死性鞏膜炎 (necrotizing scleritis without overt inflammation) 在臨床上被稱為穿孔性鞏膜軟化症 (scleromalacia perforans)，這種類型最典型地發生在患有長期類風濕性關節炎 (long-standing rheumatoid arthritis) 的病患身上。
+
+**💡 核心考點統整：**
+
+針對 Scleritis 與 Episcleritis 的臨床鑑別與系統性疾病關聯，眼科醫師需熟記以下核心觀念：\
+顏色鑑別 (Color)： Episcleritis 呈鮮紅或鮭魚粉色 (bright red or salmon pink) ； Scleritis 呈紫紅色 (violaceous hue)。\
+血管特徵： Episcleritis 的發炎血管表淺，點 2.5% phenylephrine 會變白 (blanch) 且可用棉棒推動； Scleritis 的深層血管呈交錯網狀，點藥不會變白且無法推動。\
+系統性疾病關聯： 越嚴重的鞏膜炎合併全身性自體免疫疾病的比例越高。 Diffuse 或 nodular 佔 1/3 ，而 necrotizing 佔 2/3 。\
+Scleromalacia perforans：屬於無明顯發炎症狀的壞死性鞏膜炎，極度好發於長期的類風濕性關節炎 (rheumatoid arthritis) 患者，雖無痛感但鞏膜會持續變薄，甚至露出底下的葡萄膜組織。 
+:::
+
+------------------------------------------------------------------------
+
+# Question 836
+
+> 下列有關 fungal keratitis 的敍述，何者為非？\
+> (A) Natamycin(5%)對大部分filamentous fungal keratitis 有效。\
+> (B) Amphotericin B 對於yeast keratitis 特別有效。\
+> (C) Fungal keratitis 因為角膜上皮常有缺損，局部用藥對於深層角膜感染的療效通常很好。\
+> (D) Endotholial plaque 為常見的臨床表徵。
+
+::: {.callout-note collapse="true" icon="false"}
+### 💡 BCSC 專業解析與出處
+
+**出處來源**： AAO BCSC 2025-2026 E-book Section 8, page 333-334.
+
+**原文內容：**
+
+(Page 333) "In addition, a deep stromal infiltrate may develop in the presence of an intact epithelium."
+
+(Page 334) "In cases of fungal infiltration of the deep corneal stroma, antifungal therapy may be ineffective because of the reduced penetration of these agents in the presence of an intact epithelium. Penetration of natamycin or amphotericin B can be enhanced by debridement of the corneal epithelium."
+
+**正確答案：(C)**
+
+**正確答案解析：**
+
+本題測驗黴菌性角膜炎 (fungal keratitis) 的臨床表徵與用藥原則。選項 (C) 敘述為非，因為根據 BCSC 記載，黴菌性角膜炎在發展為深層角膜基質浸潤 (deep stromal infiltrate) 時，其上方的角膜上皮「通常是完整的 (intact epithelium) 」。由於角膜上皮層的阻擋，局部抗黴菌藥物（如 natamycin 或 amphotericin B ）的穿透力會大幅降低，導致局部點藥對深層感染的療效「不佳 (ineffective) 」。因此，臨床上常需要透過角膜上皮刮除 (epithelial debridement) 或甚至是角膜基質內注射 (intrastromal injection) 來增加藥物的穿透力。
+
+{{< pagebreak >}}
+**其餘選項解析：**
+
+(A)：敘述正確。 BCSC (Page 333) 指出， 5% Natamycin 懸浮液是目前唯一通過 FDA 核准治療黴菌性角膜炎的局部藥物，且對於絲狀黴菌角膜炎 (filamentous fungal keratitis) ，特別是 Fusarium species 引起的感染非常有效 [1]。\
+(B)：敘述正確。 BCSC (Page 333) 說明，局部使用的 0.15% Amphotericin B 對於酵母菌角膜炎 (yeast keratitis) （例如 Candida species 引起的感染）具有高度療效 [1]。\
+(D)：敘述正確。選項中的 Endotholial plaque 應為 Endothelial plaque （內皮斑塊）的拼字錯誤。 BCSC (Page 52 與 333) 提及，當黴菌浸潤較深、較大，或者感染已穿透進入前房時，常可見到由纖維蛋白與發炎碎屑組成的角膜內皮斑塊 (endothelial plaque) 或前房積膿 (hypopyon) ，這是黴菌性角膜炎的常見臨床表徵之一，甚至暗示感染已穿透 Descemet membrane [2, 3]。
+
+**💡 核心考點統整：**
+
+針對 **黴菌性角膜炎 (Fungal Keratitis)**，眼科醫師需熟記以下核心觀念：\
+1. **典型表徵**：絲狀黴菌 (Filamentous fungi) 常表現為邊緣呈羽毛狀 (feathery margins) 的乾燥灰白色基質浸潤、衛星病灶 (satellite infiltrates) 及內皮斑塊 (endothelial plaque) ；酵母菌 (Yeast) 則多呈表淺突起之白色斑塊 [4, 5]。\
+2. **上皮狀態與藥物穿透**：深層黴菌感染常伴隨「**完整的角膜上皮 (intact epithelium)**」，這會嚴重阻礙抗黴菌藥物的穿透，導致單純局部點藥療效不佳，常規需合併「**上皮刮除 (epithelial debridement)**」來輔助藥物吸收 [6]。\
+3. **首選藥物**：\
+   - 絲狀黴菌 (如 Fusarium, Aspergillus )：首選局部 5% Natamycin [1]。\
+   - 酵母菌 (如 Candida )：首選局部 0.15% Amphotericin B [1]。\
+:::
+
+------------------------------------------------------------------------
+
+# Question 837
+
+> 下列有關 Ocular Graft-vs-Host Disease (GVHD) 的敘述何者為非？\
+> (A) 常見於 allogeneic bone-marrow transplantation 病人身上。\
+> (B) 大部分 ocular GVHD 的病患常在移植後的 acute stage (三個月之內)發生。\
+> (C) 嚴重的 GVHD 病患，可能出現 limbal stem cell deficiency 和 secondary corneal scarring。\
+> (D) 病患的視力受損可能是因為 corneal surface irregularity 或 posterior subcapsular cataracts。
+
+::: {.callout-note collapse="true" icon="false"}
+### 💡 BCSC 專業解析與出處
+
+**出處來源：** AAO BCSC 2025-2026 E-book Section 8, page 364-365.
+
+**原文內容：**
+
+(Page 364) "Acute GVHD usually develops within 100 days of transplant and primarily affects 3 target organs: skin, liver, and gastrointestinal tract. Chronic GVHD can affect not only these 3 organs, but also the eyes, nails, body hair, lungs, musculoskeletal system, and genitals. Chronic GVHD usually develops at least 100 days after transplant. Ocular involvement occurs in 40%-60% of patients with chronic GVHD."
+
+**正確答案：(B)**
+
+**正確答案解析：**
+
+本題測驗眼部移植物抗宿主疾病 (ocular graft-vs-host disease, ocular GVHD) 的發病時程與臨床特徵。選項 (B) 敘述為非，因為根據 BCSC 記載，急性 GVHD （移植後 100 天內）主要影響的是皮膚、肝臟與胃腸道這三個目標器官；而「眼部」的侵犯主要發生在**慢性 GVHD (chronic GVHD)** 階段（通常在移植 100 天之後發生）。有高達 40% 至 60% 的慢性 GVHD 患者會出現眼部表現，因此 ocular GVHD 並非常見於前三個月內的急性期。
+
+{{< pagebreak >}}
+**其餘選項解析：**
+
+(A)：敘述正確。 BCSC (Page 364) 指出， GVHD 是異體骨髓移植 (allogeneic bone marrow transplantation) 相對常見的併發症，這類移植最常用於治療造血系統惡性腫瘤。\
+(C)：敘述正確。 BCSC (Page 364) 說明 ocular GVHD 的角膜與結膜病理特徵包含點狀角膜病變、絲狀角膜炎、輪部幹細胞缺乏 (limbal stem cell deficiency) 、角膜新生血管、潰瘍，以及結膜的結疤 (cicatricial scarring)。\
+(D)：敘述正確。 BCSC (Page 365) 提到，患者的視力干擾通常肇因於眼表面的不平整 (surface irregularity) ；然而，這類患者同時也有極高的比例會併發後囊下白內障 (posterior subcapsular cataract) 。
+
+**💡 核心考點統整：**
+
+針對 **Ocular Graft-vs-Host Disease (GVHD)**，眼科醫師需熟記以下核心觀念：
+1. **發病時機**：眼部侵犯 (Ocular involvement) 是**慢性 GVHD (Chronic GVHD)** 的典型表現（發生於移植 100 天之後），發生率高達 40%-60% 。急性期主要侵犯皮膚、肝臟與腸胃道。
+2. **核心病理表現**：嚴重的乾眼症 (severe dry eye) 與眼表發炎。
+3. **眼部結構影響**：
+   - **結膜**：充血、上皮下纖維化、假性膜形成與結疤。
+   - **角膜**：絲狀角膜炎、輪部幹細胞缺乏 (LSCD) 、新生血管及潰瘍。
+   - **視力受損主因**：眼表面不平整 (surface irregularity) 與高發生率的後囊下白內障 (posterior subcapsular cataract) 。
+:::
+
