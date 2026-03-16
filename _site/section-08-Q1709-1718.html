@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Question 1709-1718 – OphExam-QuartoDB</title>
+<title>Question 1709-1718 – OphExamDB</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./logo.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -40,13 +41,13 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-023c36ac3fb8d2f0c16a0baaadd2e130.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-3b2d1ac8d8cd67bb6ef0acd423cc611d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
@@ -73,16 +74,46 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-sidebar floating quarto-light">
+<body class="nav-sidebar floating nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">OphExamDB</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">Project OphExamDB</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/digiiostudio/oph-exam-db"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./section-08-Q828-971.html">Section-08</a></li><li class="breadcrumb-item"><a href="./section-08-Q1709-1718.html">Question 1709-1718</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./section-08-Q828-971.html">S-08</a></li><li class="breadcrumb-item"><a href="./section-08-Q1709-1718.html">Question 1709-1718</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -92,14 +123,9 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
-    <div class="sidebar-title mb-0 py-0">
-      <a href="./">OphExam-QuartoDB</a> 
-    </div>
-      </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
@@ -110,7 +136,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">基礎與分冊指引</span></a>
+ <span class="menu-text">AAO-BCSC</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -119,7 +145,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">OphExam-QuartoDB</span></a>
+ <span class="menu-text">OphExam-DB</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -133,7 +159,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
- <span class="menu-text">Section-01</span></a>
+ <span class="menu-text">S-01</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -156,7 +182,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
- <span class="menu-text">Section-02</span></a>
+ <span class="menu-text">S-02</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -179,7 +205,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
- <span class="menu-text">Section-03</span></a>
+ <span class="menu-text">S-03</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -202,7 +228,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true">
- <span class="menu-text">Section-04</span></a>
+ <span class="menu-text">S-04</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -225,7 +251,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true">
- <span class="menu-text">Section-05</span></a>
+ <span class="menu-text">S-05</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -248,7 +274,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="true">
- <span class="menu-text">Section-06</span></a>
+ <span class="menu-text">S-06</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -271,7 +297,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="true">
- <span class="menu-text">Section-07</span></a>
+ <span class="menu-text">S-07</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -294,7 +320,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" role="navigation" aria-expanded="true">
- <span class="menu-text">Section-08</span></a>
+ <span class="menu-text">S-08</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -317,7 +343,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" role="navigation" aria-expanded="true">
- <span class="menu-text">Section-09</span></a>
+ <span class="menu-text">S-09</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -340,7 +366,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-11" role="navigation" aria-expanded="true">
- <span class="menu-text">Section-10</span></a>
+ <span class="menu-text">S-10</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-11" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -363,7 +389,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-12" role="navigation" aria-expanded="true">
- <span class="menu-text">Section-11</span></a>
+ <span class="menu-text">S-11</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-12" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -386,7 +412,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-13" role="navigation" aria-expanded="true">
- <span class="menu-text">Section-12</span></a>
+ <span class="menu-text">S-12</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-13" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -409,7 +435,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-14" role="navigation" aria-expanded="true">
- <span class="menu-text">Section-13</span></a>
+ <span class="menu-text">S-13</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-14" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -439,14 +465,23 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">本頁重點</h2>
    
   <ul>
-  <li><a href="#內容錄入中" id="toc-內容錄入中" class="nav-link active" data-scroll-target="#內容錄入中">🚧 內容錄入中…</a></li>
+  <li><a href="#question-1709" id="toc-question-1709" class="nav-link active" data-scroll-target="#question-1709">Question 1709</a></li>
+  <li><a href="#question-1710" id="toc-question-1710" class="nav-link" data-scroll-target="#question-1710">Question 1710</a></li>
+  <li><a href="#question-1711" id="toc-question-1711" class="nav-link" data-scroll-target="#question-1711">Question 1711</a></li>
+  <li><a href="#question-1712" id="toc-question-1712" class="nav-link" data-scroll-target="#question-1712">Question 1712</a></li>
+  <li><a href="#question-1713" id="toc-question-1713" class="nav-link" data-scroll-target="#question-1713">Question 1713</a></li>
+  <li><a href="#question-1714" id="toc-question-1714" class="nav-link" data-scroll-target="#question-1714">Question 1714</a></li>
+  <li><a href="#question-1715" id="toc-question-1715" class="nav-link" data-scroll-target="#question-1715">Question 1715</a></li>
+  <li><a href="#question-1716" id="toc-question-1716" class="nav-link" data-scroll-target="#question-1716">Question 1716</a></li>
+  <li><a href="#question-1717" id="toc-question-1717" class="nav-link" data-scroll-target="#question-1717">Question 1717</a></li>
+  <li><a href="#question-1718" id="toc-question-1718" class="nav-link" data-scroll-target="#question-1718">Question 1718</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./section-08-Q828-971.html">Section-08</a></li><li class="breadcrumb-item"><a href="./section-08-Q1709-1718.html">Question 1709-1718</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./section-08-Q828-971.html">S-08</a></li><li class="breadcrumb-item"><a href="./section-08-Q1709-1718.html">Question 1709-1718</a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title">Question 1709-1718</h1>
 </div>
@@ -465,9 +500,431 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="內容錄入中" class="level2">
-<h2 class="anchored" data-anchor-id="內容錄入中">🚧 內容錄入中…</h2>
-<p>本章節題目與解析正在依據 BCSC 2024-2025 最新版本進行數位化校對。</p>
+<hr>
+<section id="question-1709" class="level1">
+<h1>Question 1709</h1>
+<blockquote class="blockquote">
+<p>45歲男性雙眼化學性灼傷後前來就診，關於眼表重建 (ocular surface reconstruction) 之描述，何者為非？<br>
+(A) Mucousmembrane pemphigoid 是 limbal autograft 之適應症；而 cicatricial strabismus 是 conjunctival autograft 之適應症。<br>
+(B) Bare sclera 之方式在 pterygium excision 中有最高的復發率。<br>
+(C) Pterygium excision 合併 conjunctival–limbal autograft 及術中使用 MMC 能將復發率降到最低。<br>
+(D) 在limbal stem cell transplantation 的成功率上，conjunctival–limbal autograft (CLAU) 高於 simple limbal epithelial transplantation (SLET) 高於 cultivated allogeneic limbal epithelial transplantation (allo-CLET)。</p>
+</blockquote>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>💡 點擊展開 BCSC 專業解析與出處
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><strong>出處來源：</strong> AAO BCSC 2025-2026 E-book Section 8, page 104.</p>
+<p><strong>原文內容：</strong></p>
+<p>(Page 104) Table 5-1 Indications for Ocular Surface Reconstruction and Types of Grafts Used Conjunctival Autograft: Cicatricial strabismus, Fornix reconstruction (unilateral), Postexcision of conjunctival tumor, Pterygium surgery, Symblepharon repair. Limbal Autograft: Chemical injury, Chronic medication toxicity, Contact lens keratopathy, Limbal depletion after multiple surgeries, Persistent epithelial defect, Thermal burn. (Footnote: A limbal autograft from the contralateral eye is preferable only in unilateral cases.) Limbal Allograft: Aniridia, Atopy, Mucous membrane pemphigoid, Stevens-Johnson syndrome. (Footnote: A limbal allograft is preferable for bilateral disease.)</p>
+<p><strong>正確答案： (A)</strong></p>
+<div style="page-break-after: always;">
+
+</div>
+<p><strong>正確答案解析：</strong></p>
+<p>根據 BCSC 規範，mucous membrane pemphigoid (MMP) 屬於雙眼發病的自體免疫瘢痕性疾病，因為患者的雙眼通常皆受波及，無健康的自體組織可供取用，所以其適應症為 limbal allograft（異體輪部移植）或 mucous membrane graft（黏膜移植），而非選項所稱的 limbal autograft（自體輪部移植）。Limbal autograft 僅適用於單眼疾病（如單眼化學性灼傷）。另一方面，cicatricial strabismus 確實為 conjunctival autograft（自體結膜移植）的適應症。因此選項 (A) 的前半部敘述有誤，為本題的正確答案。</p>
+<p><strong>其餘選項解析：</strong></p>
+<p>(B)：正確。根據 BCSC 第 106 頁 Table 5-2 的統計，在 pterygium excision 手術中，若單獨採用 bare sclera（鞏膜裸露）技術，其復發率高達 32%–88%，是所有手術選項中復發率最高的。<br>
+(C)：正確。同樣根據 BCSC 第 106 頁 Table 5-2，pterygium excision 合併 conjunctival-limbal autograft 並搭配使用 mitomycin C (MMC) ，其復發率可大幅降至 0%–5%，為文獻統計中復發率最低的治療組合。<br>
+(D)：正確。根據 BCSC 第 118 頁 Table 5-4 關於 limbal stem cell transplantation 的成功率統計：自體結膜輪部移植 conjunctival-limbal autograft (CLAU) 的成功率為 33%–100%；簡單輪部上皮移植 simple limbal epithelial transplantation (SLET) 為 70%–84%；而異體培養輪部上皮移植 cultivated allogeneic limbal epithelial transplantation (allo-CLET) 則為 0%–70%。整體而言，自體移植的成功率大於異體培養移植，且符合選項的排序描述。</p>
+<p><strong>💡 核心考點統整：</strong></p>
+<p>本題核心考點為眼表重建 (ocular surface reconstruction) 的手術適應症與術式預後評估。<br>
+<strong>移植來源的選擇</strong>：關鍵在於區分單眼與雙眼疾病。單眼受損（如單眼化學灼傷、熱灼傷）可使用 limbal autograft 取健側眼的健康組織；雙眼廣泛性疾病（如 mucous membrane pemphigoid、Stevens-Johnson syndrome）則必須仰賴 limbal allograft 或黏膜移植。<br>
+<strong>翼狀贅肉 (Pterygium) 復發率</strong>：Bare sclera 復發率極高（可達 88%），目前手術的黃金標準為 conjunctival autograft 或 conjunctival-limbal autograft，若加上輔助性化療藥物 MMC，能達到最低的復發率 (0%–5%)。 輪部幹細胞移植成功率：在不考慮排斥反應的優勢下，自體移植 (CLAU, SLET) 的整體成功率與預後通常優於異體移植 (allo-CLET) 。</p>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="question-1710" class="level1">
+<h1>Question 1710</h1>
+<blockquote class="blockquote">
+<p>Pellucid marginal degeneration 的角膜變薄通常發生在何處？<br>
+(A) Centrally。<br>
+(B) superior periphery。<br>
+(C) nasal and temporal periphery。<br>
+(D) inferior periphery。</p>
+</blockquote>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>💡 點擊展開 BCSC 專業解析與出處
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><strong>出處來源：</strong> AAO BCSC 2025-2026 E-book Section 8, page 231.</p>
+<p><strong>原文內容：</strong></p>
+<p>(Page 231) In patients with PMD, a 1-2-mm wide band of inferior corneal thinning, which occurs 1-2 mm from the limbus and extends up to 4 clock-hours (usually 4-8 o’clock), is typically observed. In rare cases, PMD may occur in the superior cornea.</p>
+<p><strong>正確答案： (D)</strong></p>
+<div style="page-break-after: always;">
+
+</div>
+<p><strong>正確答案解析：</strong></p>
+<p>根據 BCSC 規範，pellucid marginal degeneration (PMD) 的典型臨床表現為下方周邊角膜變薄 (inferior corneal thinning)。這種變薄通常呈現 1-2 mm 寬的帶狀，位於距離角膜輪部 (limbus) 1-2 mm 處，並延伸約 4 個鐘點的範圍（通常落在 4 到 8 點鐘方向）。因此，選項 (D) 為最標準的典型特徵。</p>
+<p><strong>其餘選項解析：</strong></p>
+<p>(A)：錯誤。中央或下方旁中央 (inferior paracentral) 角膜變薄且突出通常是圓錐角膜 (keratoconus) 的典型特徵，而 PMD 的變薄帶嚴格位於下方周邊角膜。<br>
+(B)：錯誤。雖然極少數情況下 PMD 可能發生在上方角膜，但這並非常見典型表現。上方角膜周邊變薄更常見於 Terrien marginal degeneration (TMD) ，其通常從上方開始並沿圓周蔓延。<br>
+(C)：錯誤。鼻側和顳側周邊 (nasal and temporal periphery) 並非 PMD 的典型角膜變薄位置。</p>
+<p><strong>💡 核心考點統整：</strong></p>
+<p>本題核心考點為周邊角膜變薄與角膜擴張性疾病 (corneal ectatic disease) 的位置鑑別診斷。必須熟記以下疾病的典型病灶位置：<br>
+Pellucid marginal degeneration (PMD)：特徵為下方周邊 (inferior periphery) 呈帶狀變薄，且角膜的最突出點位於變薄區上方的中央邊緣（呈現類似「啤酒肚 beer-belly」的輪廓）。<br>
+Keratoconus (圓錐角膜)：通常為中央或下方旁中央 (central, inferior paracentral) 的變薄與突出。<br>
+Terrien marginal degeneration (TMD)：周邊變薄通常從上方 (superior) 發生，並可伴隨新生血管與脂質沉積。<br>
+Keratoglobus (球狀角膜)：呈現瀰漫性的角膜陡峭與變薄，且其變薄在周邊最為嚴重 (diffuse thinning that is worse in the periphery)。</p>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="question-1711" class="level1">
+<h1>Question 1711</h1>
+<blockquote class="blockquote">
+<p>有關結膜黑色素瘤(Cinjunctival melanoma)，下列敘述何者有誤？<br>
+(A) 70%由原發性後天性黑色素細胞增生（primary acquired melanosis, PAM）而來。<br>
+(B) 較常發生在球結膜，如果出現在輪部(Limbus)則比長在淚阜(Caruncle)預後差。<br>
+(C) 25%的結膜黑色素瘤是無色素的(amelanotic)，復發的黑色素瘤也常是無色素的。<br>
+(D) 可能轉移到局部淋巴節、腦部、肺部以及肝臟。</p>
+</blockquote>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>💡 點擊展開 BCSC 專業解析與出處
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><strong>出處來源：</strong> AAO BCSC 2025-2026 E-book Section 8, pages 405-406.</p>
+<p><strong>原文內容：</strong></p>
+<p>(Page 405) Conjunctival melanomas may arise from PAM (70%) or nevi (5%), or they may arise de novo (25%)… Although conjunctival melanomas can arise in palpebral conjunctiva, they are most commonly found in the bulbar conjunctiva or at the limbus… The degree of pigmentation is variable; approximately 25% of conjunctival melanomas are amelanotic. Recurrent melanomas are often amelanotic, even if the primary tumor was pigmented… Poor prognostic indicators include: location in the palpebral conjunctiva, caruncle, or fornix… tumors that do not involve the limbus. (Page 406) Conjunctival melanomas may metastasize to regional lymph nodes, the brain, lungs, liver, and bone.</p>
+<p><strong>正確答案：(B)</strong></p>
+<div style="page-break-after: always;">
+
+</div>
+<p><strong>正確答案解析：</strong></p>
+<p>根據 BCSC 規範，結膜黑色素瘤 (conjunctival melanoma) 最常發生在球結膜 (bulbar conjunctiva) 或輪部 (limbus)。然而，其不良預後指標 (poor prognostic indicators) 明確包含了「發生於瞼結膜 (palpebral conjunctiva)、淚阜 (caruncle) 或穹窿 (fornix)」以及「未侵犯輪部的腫瘤 (tumors that do not involve the limbus)」。這代表病灶如果位於輪部 (limbus)，其預後實際上是比位於淚阜 (caruncle) <strong>好</strong>的。因此，選項 (B) 的後半部敘述有誤，為本題正確答案。</p>
+<p><strong>其餘選項解析：</strong></p>
+<p>(A)：正確。高達 70% 的結膜黑色素瘤是由原發性後天性黑色素細胞增生 (PAM) 惡化而來， 5% 來自痣 (nevi) ， 25% 則是原發性 (de novo)。<br>
+(C)：正確。大約有 25% 的結膜黑色素瘤是無色素的 (amelanotic)。此外，即使原發腫瘤是有色素的，復發的黑色素瘤也通常會呈現無色素狀態。<br>
+(D)：正確。結膜黑色素瘤具有轉移的潛力，可能轉移至局部淋巴結 (regional lymph nodes)、腦部 (brain)、肺部 (lungs)、肝臟 (liver) 以及骨骼 (bone)。</p>
+<p><strong>💡 核心考點統整：</strong></p>
+<p>本題核心考點為結膜黑色素瘤 (conjunctival melanoma) 的臨床特徵與預後評估。重點在於了解其起源（高達 70% 來自 PAM），大約 25% 的無色素比例（且復發常為無色素），以及其轉移的標的器官。特別需要熟記的是<strong>不良預後指標 (poor prognostic indicators)</strong>，包含：</p>
+<ol type="1">
+<li><strong>非輪部病灶</strong> (tumors that do not involve the limbus)。</li>
+<li><strong>發生於非球結膜區域</strong>，例如瞼結膜 (palpebral conjunctiva)、淚阜 (caruncle) 或穹窿 (fornix)。</li>
+<li>腫瘤厚度大於 1.8 mm。</li>
+<li>侵犯深層組織或淋巴。</li>
+<li>邊緣侵犯 (pagetoid or full-thickness intraepithelial spread) 與混合細胞型。</li>
+</ol>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="question-1712" class="level1">
+<h1>Question 1712</h1>
+<blockquote class="blockquote">
+<p>角膜的先天異常 Peters 異常類型 2 (Peters anomaly type 2) 成因為何？<br>
+(A) 孕期母體內梅毒感染。<br>
+(B) 胚胎視杯發育不良。<br>
+(C) 胚胎視裂閉合不全。<br>
+(D) 胚胎晶體囊泡與外胚層分離時發育不全。</p>
+</blockquote>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>💡 點擊展開 BCSC 專業解析與出處
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><strong>出處來源：</strong> AAO BCSC 2025-2026 E-book Section 8, page 169.</p>
+<p><strong>原文內容：</strong></p>
+<p>(Page 169) Peters anomaly is classified into 2 types: … Type 2 is characterized by corneolenticular adhesions and/or cataract, along with a central or total corneal opacity that is usually vascularized. Type 2 is presumed to be due to a developmental failure in separation of the invaginating lens vesicle from the overlying surface ectoderm.</p>
+<p><strong>正確答案： (D)</strong></p>
+<div style="page-break-after: always;">
+
+</div>
+<p><strong>正確答案解析：</strong></p>
+<p>根據 BCSC 規範，Peters anomaly 可分為兩種類型。Peters 異常類型 2 (Type 2) 的特徵為角膜晶體沾黏 (corneolenticular adhesions) 或白內障，並伴隨通常具有新生血管的中央或全角膜混濁。在致病機轉上，BCSC 明確指出 Type 2 被認為是由於胚胎發育過程中，內陷的晶體囊泡 (invaginating lens vesicle) 無法與上方的表面外胚層 (surface ectoderm) 正常分離所導致的發育障礙。因此，選項 (D) 為正確答案。</p>
+<p><strong>其餘選項解析：</strong></p>
+<p>(A)：錯誤。孕期母體感染梅毒 (congenital syphilis) 主要會對胎兒造成遲發性的免疫介導基質性角膜炎 (interstitial keratitis)，在出生時通常無角膜異常，且會伴隨典型的 Hutchinson triad（如牙齒發育異常與第八對腦神經耳聾）。這並非 Peters anomaly 的成因。<br>
+(B)：錯誤。胚胎視杯 (optic cup) 邊緣的過度生長被認為可能與小角膜 (microcornea) 有關；而視杯生長失敗及其前緣未能閉合，則被認為可能與巨角膜 (megalocornea) 有關。兩者皆非 Peters anomaly 的發病機轉。<br>
+(C)：錯誤。胚胎視裂 (embryonic fissure / optic fissure) 閉合不全是造成葡萄膜或視網膜缺損 (coloboma) 的經典成因，儘管 coloboma 可能是 Peters anomaly 的相關眼部異常之一，但其本身並非造成 Peters 異常類型 2 的直接原因。</p>
+<p><strong>💡 核心考點統整：</strong></p>
+<p>本題核心考點為 <strong>Peters anomaly</strong> 的臨床分型與胚胎學致病機轉：<br>
+<strong>Type 1</strong>：主要影響角膜，特徵為虹膜角膜沾黏 (iridocorneal adhesions)，虹膜絲延伸至角膜後方缺損邊緣。角膜混濁通常無血管新生。<br>
+<strong>Type 2</strong>：病灶更深且更嚴重，特徵為角膜晶體沾黏 (corneolenticular adhesions) 及 / 或白內障。角膜混濁通常伴隨血管新生。其典型的胚胎學異常機轉即為「內陷的晶體囊泡 (lens vesicle) 與表面外胚層 (surface ectoderm) 分離失敗」。兩型皆有約 50% 比例伴隨先天性青光眼 (glaucoma)。若合併全身性異常（如短小身材、顱面異常、智力低下等），則稱為 Peters-plus syndrome。</p>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="question-1713" class="level1">
+<h1>Question 1713</h1>
+<blockquote class="blockquote">
+<p>有關單純皰疹病毒 (Herpes simplex virus, HSV) 感染的敘述，下列何者有誤？<br>
+(A) 單純皰疹病毒為雙股有鞘膜 (Double stranded enveloped ) 的DNA 病毒，可用紫外線燈、酒精及清潔劑消毒，以避免病毒的傳播。<br>
+(B) 原發性眼部感染 (Primary ocular infection) 的典型表現是眼瞼結膜炎 (Blepharoconjunctivitis)，可伴隨耳前淋巴結腫大。也可見樹枝狀上皮角膜炎(dendritic epithelial keratitis)。<br>
+(C) 若出現樹枝狀上皮角膜炎，可用乾棉棒刮除感染的上皮，並給予Acyclovir 3%藥膏或口服acyclovir 400 mg 每天五次，同時可加類固醇眼藥水，以抑制角膜斑痕(Scar)的產生。<br>
+(D) 可見盤狀角膜炎(Herpetic disiform keratitis)，是一原發角膜內皮細胞炎 (primary endotheliitis)，臨床上呈現圓盤形角膜基質水腫及角膜上皮水腫。</p>
+</blockquote>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>💡 點擊展開 BCSC 專業解析與出處
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-5" class="callout-5-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><strong>出處來源：</strong> AAO BCSC 2025-2026 E-book Section 8, pages 281-282.</p>
+<p><strong>原文內容：</strong></p>
+<p>(Page 281) Clinical Pearl: Topical corticosteroids can potentiate dendritic keratitis and should be used with great caution in the presence of active herpetic epithelial keratitis because of the risk of prolonged viral shedding and worsening of keratitis. (Page 281) Areas of dendritic keratitis may coalesce further, enlarging into a more expansive geographic epithelial ulcer, particularly when topical corticosteroids have been used. (Page 282) Gentle epithelial debridement with a dry cotton-tipped applicator or cellulose sponge speeds resolution and may be helpful as adjunctive therapy in patients with large dendrites or drug-resistant HSV keratitis. … Acyclovir 3% ophthalmic ointment 5 times daily … Oral acyclovir 400 mg 5 times daily … are effective and not associated with ocular toxicity.</p>
+<p><strong>正確答案：(C)</strong></p>
+<div style="page-break-after: always;">
+
+</div>
+<p><strong>正確答案解析：</strong></p>
+<p>根據 BCSC 規範，若患者出現活躍的樹枝狀上皮角膜炎 (active herpetic epithelial keratitis)，此時病灶內存在活躍複製的活病毒。雖然使用乾棉棒進行上皮刮除 (epithelial debridement) 以及給予抗病毒藥物（如 Acyclovir 3% 藥膏或口服 acyclovir 400 mg 每天五次）是正確且有效的治療方式；但是，<strong>絕對不建議</strong>在活躍的上皮角膜炎階段常規添加「類固醇眼藥水」。 BCSC 明確警告，局部類固醇會加重樹枝狀角膜炎，導致病毒持續排出 (prolonged viral shedding)，並可能使病灶惡化擴大成為地圖狀上皮潰瘍 (geographic epithelial ulcer)。類固醇僅在進入基質角膜炎 (stromal keratitis) 或內皮炎階段時，為了抑制過度免疫反應才合併抗病毒藥物謹慎使用。因此選項 (C) 建議同時加上類固醇眼藥水是嚴重的臨床錯誤。</p>
+<p><strong>其餘選項解析：</strong></p>
+<p>(A)：正確。根據 BCSC 第 273 頁 (Virology section)，所有的皰疹病毒皆為雙股 DNA 病毒 (double-stranded DNA genome) 且具有宿主細胞衍生的脂質包膜 (lipid envelope) 。這些包膜容易受到紫外線 (UV light) 、清潔劑 (detergents) 、酒精 (alcohols) 與一般防腐劑的破壞，因此這類方法可用於環境消毒與避免傳播。<br>
+(B)：正確。根據 BCSC 第 276 頁，原發性眼部 HSV 感染通常表現為眼瞼結膜炎 (blepharoconjunctivitis) ，且常伴隨可觸及的耳前淋巴結腫大 (palpable preauricular lymph node) 。此外，原發性感染的患者也可能發展出典型的樹枝狀上皮角膜炎 (dendritic epithelial keratitis) 。<br>
+(D)：正確。根據 BCSC 第 283 頁，盤狀角膜炎 (disciform keratitis) 是一種原發性內皮細胞炎 (primary endotheliitis) ，臨床上表現為圓盤形或橢圓形的角膜基質與上皮水腫 (round or oval area of corneal stromal and epithelial edema) ，並伴隨其下的角膜內皮沉澱物 (keratic precipitates) 。</p>
+<p><strong>💡 核心考點統整：</strong></p>
+<p>針對 HSV 角膜炎的治療準則，眼科醫師必須嚴格區分「上皮型」與「基質/內皮型」： <strong>上皮角膜炎 (Epithelial keratitis)</strong>：包含樹枝狀 (dendritic) 與地圖狀 (geographic) 潰瘍，代表活病毒正在複製。治療首選為抗病毒藥物（如口服/局部 Acyclovir 或 Ganciclovir 凝膠）與上皮輕柔刮除 (epithelial debridement) 。<strong>嚴禁使用局部類固醇</strong>，以免造成病毒大量擴散與角膜惡化。<br>
+<strong>基質角膜炎 (Stromal keratitis) 與盤狀角膜炎 (Disciform keratitis)</strong>：為宿主對病毒抗原的免疫反應或內皮發炎，治療原則為「局部類固醇（控制發炎）加上口服或局部抗病毒藥物（作為預防活化之掩護）」。<strong>病毒特性</strong>：HSV 具脂質包膜 (enveloped) ，對酒精、紫外線、清潔劑敏感。這與無包膜 (nonenveloped) 的腺病毒 (Adenovirus) 對環境的強大抵抗力形成對比。</p>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="question-1714" class="level1">
+<h1>Question 1714</h1>
+<blockquote class="blockquote">
+<p>有關角膜，下列描述何者為非？<br>
+(A) 前角膜密度比後角膜高，跟屈光手術後發生術後角膜突出有關。<br>
+(B) Dua layer 對DALK 手術很重要，type 1 bubble (air dissection between Dua layer and Descement memebrane)較會破。<br>
+(C) Endothelial cells 有部分分裂(mitotic)能力，Rho kinase inhibitors 能幫忙cell migration。<br>
+(D) 當central corneal thickness in Fuchs’ dystrophy 大於640 μm 代表進行白內障手術時有高風險的endothelial decompensation。</p>
+</blockquote>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>💡 點擊展開 BCSC 專業解析與出處
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-6" class="callout-6-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><strong>出處來源：</strong> AAO BCSC 2025-2026 E-book Section 8, pages 13-14, 477.</p>
+<p><strong>原文內容：</strong></p>
+<p>(Pages 13-14) During deep anterior lamellar keratoplasty, air is injected into the corneal stroma to separate the Dua layer from the posterior stroma, forming a big bubble (type I) between the Dua layer and the stroma. Because the Dua layer is strong and resists the passage of air through it, this type of bubble dissection is sturdier and less likely to tear or burst through the tissue compared with an air dissection between the Dua layer and Descemet membrane (type II bubble).</p>
+<p>(Page 477) A type I bubble is formed by cleavage between the overlying stroma and Dua layer attached to Descemet membrane. A type II bubble occurs when Dua layer is separated from underlying Descemet membrane. Type II bubbles are less common than type I but are much more delicate and prone to perforation.</p>
+<p><strong>正確答案：</strong> (B)</p>
+<p><strong>正確答案解析：</strong></p>
+<p>根據 BCSC 規範，前部深層角膜基質層與 Descemet membrane 之間存在一層無細胞的 Dua layer。在進行深部前角膜層狀移植手術 (DALK) 的「大氣泡技術 (big bubble technique)」時：<br>
+<strong>Type I bubble</strong>：是將角膜基質與 Dua layer 分開（此時 Dua layer 仍與 Descemet membrane 相連）。因為 Dua layer 質地強韌且能抵抗空氣穿透，這種 type I bubble <strong>較穩固且不易破裂 (sturdier and less likely to tear or burst)</strong>。<strong>Type II bubble</strong>：是將 Dua layer 與 Descemet membrane 分開。這種氣泡較少見，且<strong>極其脆弱、容易破裂 (much more delicate and prone to perforation)</strong>。選項 (B) 錯誤地將 type 1 bubble 的解剖位置定義為 Dua layer 與 Descemet membrane 之間（這其實是 type 2 的位置），並錯誤地宣稱它較容易破裂，因此 (B) 為本題正確答案（錯誤的敘述）。</p>
+<p><strong>其餘選項解析：</strong></p>
+<p>(A)：正確。根據 BCSC 第 12 頁，前角膜基質 (anterior stroma) 的角膜細胞密度較高且膠原蛋白交織較緻密，其抗拉強度 (tensile strength) 是後角膜基質 (posterior stroma) 的兩倍。這種前後基質強度的差異，被認為與特定角膜屈光手術後發生角膜擴張 (corneal ectasia) 具有相關性。<br>
+(C)：正確。根據 BCSC 第 14 頁，過去認為角膜內皮細胞無法複製，但目前研究發現，特別是周邊部位的內皮細胞可能具備部分的細胞分裂能力 (mitotic potential)。此外，藥物如 Rho kinase inhibitors 可以促進這些內皮細胞的移行 (cell migration)。<br>
+(D)：正確。根據 BCSC 第 38 頁，角膜內皮細胞具備屏障與代謝幫浦的雙重功能，而角膜測厚儀 (pachymetry) 是評估內皮功能的重要工具。若 Fuchs 內皮角膜失養症患者的中央角膜厚度 (central corneal thickness) 大於 640 μm，代表其在進行眼內手術（如白內障手術）後，發生有症狀的角膜水腫（內皮細胞失代償，endothelial decompensation）的風險極高。</p>
+<p><strong>💡 核心考點統整：</strong></p>
+<p>本題涵蓋了角膜的解剖生理學與進階臨床應用，包含：<br>
+<strong>角膜基質特性</strong>：前 40% 的角膜基質貢獻了絕大部分的抗拉強度，故屈光手術若切削過多前基質，容易引發角膜擴張 (ectasia)。<br>
+<strong>DALK 手術解剖 (Dua layer)</strong>：Type I bubble（角膜基質與 Dua layer 之間）最常見且強韌不易破；Type II bubble（Dua layer 與 Descemet membrane 之間）較罕見且極易破裂。<br>
+<strong>角膜內皮細胞與白內障手術風險</strong>：內皮細胞移行可受 Rho kinase inhibitors 促進。臨床上 CCT &gt; 640 μm 是極具指標性的警戒線，暗示內皮功能已瀕臨臨界，術後極易發生不可逆的角膜水腫。</p>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="question-1715" class="level1">
+<h1>Question 1715</h1>
+<blockquote class="blockquote">
+<p>有關Ocular rosacea 的描述何者為非？<br>
+(A) 好發於中年女性，臉部會有midfacial erythema, pustules, papules, telangiectasias。<br>
+(B) 眼皮有chronic blepharitis, MGD, eyelid margin telangiectasia with hyperemia, recurrent chalazia。<br>
+(C) 角膜有marginal keratitis, corneal neovascularization, scarring, thinning。<br>
+(D) 不建議使用口服tetracycline and topical steroid 來治療。</p>
+</blockquote>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-7-contents" aria-controls="callout-7" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>💡 點擊展開 BCSC 專業解析與出處
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-7" class="callout-7-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><strong>出處來源：</strong> AAO BCSC 2025-2026 E-book Section 8, page 72.</p>
+<p><strong>原文內容：</strong></p>
+<p>(Page 72) Oral tetracyclines are the mainstay of therapy for both the ocular and skin disease. … If it is determined that the ulcer is noninfectious, topical corticosteroids, used judiciously, can play a substantial role in reducing inflammation and promoting reepithelialization of the cornea.</p>
+<p><strong>正確答案：</strong> (D)</p>
+<p><strong>正確答案解析：</strong></p>
+<p>根據 BCSC 規範，對於 ocular rosacea 的治療，口服四環黴素類藥物 (oral tetracyclines) 實際上是治療眼部與皮膚疾病的「主力 (mainstay of therapy)」。此外，若由 rosacea 引起的潰瘍性角膜炎被確認為非感染性的無菌性發炎，謹慎使用局部類固醇 (topical corticosteroids) 能在減輕發炎與促進角膜上皮癒合方面發揮重要作用。因此，選項 (D) 稱「不建議使用」這兩種藥物是完全錯誤的敘述，為本題正確答案。</p>
+<p><strong>其餘選項解析：</strong></p>
+<p>(A)：正確。根據 BCSC 第 71 頁，rosacea 好發於中年，且女性多於男性 (more common in women than men, onset is typically in middle age)。臉部表現典型包含中臉紅斑 (midfacial erythema)、陣發性潮紅、反覆出現的膿疱與丘疹 (pustules and papules) 以及微血管擴張 (telangiectasias)。<br>
+(B)：正確。根據 BCSC 第 72 頁，眼瞼的臨床表現包含皮脂分泌過多、慢性眼瞼炎 (chronic blepharitis)、麥氏腺功能障礙 (MGD)、眼瞼緣微血管擴張伴隨充血與硬結 (eyelid margin telangiectasia with hyperemia and induration) 以及反覆發作的霰粒腫 (recurrent chalazia)。<br>
+(C)：正確。根據 BCSC 第 72 頁與 73 頁，角膜表現包含邊緣性角膜炎 (marginal keratitis)、無菌性潰瘍，反覆發作的眼表發炎會導致角膜新生血管與結疤 (corneal neovascularization and scarring)，在晚期甚至會導致角膜變薄 (corneal thinning) 與穿孔。</p>
+<p><strong>💡 核心考點統整：</strong></p>
+<p>本題核心考點為 <strong>Ocular rosacea (眼部酒糟)</strong> 的臨床特徵與標準治療原則：<br>
+<strong>好發族群與臉部特徵</strong>：中年女性多見，特徵為中臉紅斑 (erythema)、微血管擴張 (telangiectasias) 與丘疹/膿疱。<strong>眼瞼與眼表病灶</strong>：常合併慢性 MGD、眼瞼緣微血管擴張及反覆霰粒腫；角膜病灶常見下方邊緣性角膜炎 (marginal keratitis)，嚴重時導致新生血管、結疤甚至變薄穿孔。<br>
+<strong>藥物治療黃金準則</strong>：<strong>口服四環黴素類 (Oral tetracyclines)</strong> 為控制皮膚與眼部症狀的主力；若發生無菌性角膜潰瘍與嚴重發炎，<strong>局部類固醇 (topical corticosteroids)</strong> 的謹慎使用對於控制發炎與促進癒合具備高度價值，不可視為禁忌症。</p>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="question-1716" class="level1">
+<h1>Question 1716</h1>
+<blockquote class="blockquote">
+<p>關於角膜膨隆(corneal ectasia)，下面敘述何者正確？<br>
+(A) 通常是有基因缺陷，和外傷揉眼沒什麼關聯。<br>
+(B) Anterior segment OCT 是早期診斷的重要工具，會顯現角膜表皮在基質最薄的地方也變薄。<br>
+(C) Vogt striae 發生原因是Bowman layer 缺損。<br>
+(D) 突發角膜水腫通常是因為Descemet membrane 破裂須緊急手術修補。</p>
+</blockquote>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-8-contents" aria-controls="callout-8" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>💡 點擊展開 BCSC 專業解析與出處
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-8" class="callout-8-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><strong>出處來源：</strong> AAO BCSC 2025-2026 E-book Section 8, pages 41, 214, 216, 222, 224.</p>
+<p><strong>原文內容：</strong></p>
+<p>(Page 41) AS-OCT can be used to measure corneal epithelial thickness as a means of detecting keratoconus, indicated by the finding of thinned epithelium at the apex of the cone. (Page 222) Anterior segment OCT is used to map corneal epithelial thickness for early diagnosis and follow-up of KC. The normal corneal epithelium is thicker centrally and thinner superiorly, whereas the keratoconic cornea is thinner at the apex of the cone, typically inferotemporally, and thicker superonasally.</p>
+<p><strong>正確答案： (B)</strong></p>
+<p><strong>正確答案解析：</strong></p>
+<p>根據 BCSC 規範，前眼部光學同調斷層掃描 (Anterior segment OCT, AS-OCT) 是早期診斷與追蹤圓錐角膜 (keratoconus) 的重要工具。AS-OCT 可以精確繪製角膜上皮厚度圖 (epithelial thickness map)，在正常角膜中，上皮通常是中央較厚、上方較薄；但在圓錐角膜患者中，典型的早期表現為圓錐頂點處（通常為顳下側，也是角膜基質最薄、最突出的位置）的「角膜上皮變薄 (thinned epithelium at the apex of the cone)」，而鼻上側的上皮則會出現代償性變厚。因此，選項 (B) 為正確答案。</p>
+<p><strong>其餘選項解析：</strong></p>
+<p>(A)：錯誤。根據 BCSC 第 214 頁與 218 頁，雖然基因易感性 (genetic predisposition) 扮演一定角色，但「頻繁揉眼 (eye rubbing)」被認為是誘發與導致圓錐角膜惡化的重要風險因子。 BCSC 甚至特別強調，醫師必須警告患者不可揉眼睛，因為這不僅會加速疾病惡化，在晚期更可能引發急性角膜水腫。<br>
+(C)：錯誤。根據 BCSC 第 216 頁， Vogt striae 是指位於「後角膜基質 (posterior stroma)」的細小平行皺褶，當對眼球施加外部壓力時可能會消失；相反地， Bowman layer 的破裂通常會導致圓錐頂點產生網狀結疤 (reticular scarring) ，兩者在解剖位置與表現上並不相同。<br>
+(D)：錯誤。根據 BCSC 第 217 頁與 224 頁，突發性的角膜水腫（急性角膜水腫，acute hydrops）確實是因為 Descemet membrane 破裂所引起，但 BCSC 明確指出急性角膜水腫「不是」緊急角膜移植手術的適應症 (Hydrops is not an indication for urgent keratoplasty)。目前的標準治療為保守治療（包含使用高張食鹽水、局部類固醇、睫狀肌麻痺劑、配戴治療性隱形眼鏡，或前房注射氣體），水腫通常會在幾個月內自行緩解。</p>
+<p><strong>💡 核心考點統整：</strong></p>
+<p>本題核心考點為圓錐角膜 (Keratoconus) 及角膜擴張性疾病 (Corneal ectatic disease) 的臨床診斷與處置原則：<br>
+<strong>病因與危險因子</strong>：揉眼睛 (eye rubbing) 、特應性體質 (atopy) 、年輕與遺傳皆是高風險因子。<br>
+<strong>早期診斷影像學 (AS-OCT)</strong>：正常角膜上皮呈中央厚、上方薄；圓錐角膜的上皮會在圓錐頂點（最突、基質最薄處）變薄，周圍變厚。這可用於區分早期圓錐角膜與隱形眼鏡引起的角膜變形 (contact lens-induced warpage，後者的中央上皮會變厚)。<br>
+<strong>重要臨床徵象區分</strong>：<strong>Vogt striae</strong>：後基質 (posterior stroma) 壓力皺褶，壓迫眼球會消失。<strong>Fleischer ring</strong>：基底上皮 (basal epithelium) 鐵質沉積。<strong>Reticular scarring</strong>：Bowman layer 破裂造成的網狀疤痕。<br>
+<strong>急性角膜水腫 (Acute hydrops)</strong>：因 Descemet membrane 破裂引起，以保守治療為主，<strong>絕對不需緊急角膜移植</strong>。</p>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="question-1717" class="level1">
+<h1>Question 1717</h1>
+<blockquote class="blockquote">
+<p>下列何者與圓錐角膜(keratoconus) 的發生或進展較不相關?<br>
+(A) 乾眼症。<br>
+(B) 家族遺傳。<br>
+(C) 揉眼睛。<br>
+(D) 結締組織疾病。</p>
+</blockquote>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-9-contents" aria-controls="callout-9" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>💡 點擊展開 BCSC 專業解析與出處
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-9" class="callout-9-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>**出處來源：AAO BCSC 2025-2026 E-book Section 8, pages 213-215.</p>
+<p><strong>原文內容：</strong></p>
+<p>(Pages 213-214) Factors that may play a role in the onset and progression of KC include: genetic predispositioneye rubbingyoung ageatopic disease and allergic keratoconjunctivitisabnormalities in collagen that result in hyperelastic joints</p>
+<p>(Page 215) Table 9-1 Conditions Commonly Associated With Keratoconus: Associated Systemic Conditions - Atopic disease, Down syndrome, Ehlers-Danlos syndrome, Osteogenesis imperfecta, Sleep apnea.</p>
+<p><strong>正確答案：(A)</strong></p>
+<p><strong>正確答案解析：</strong></p>
+<p>根據 BCSC 規範，圓錐角膜 (keratoconus, KC) 的發生與進展與基因易感性 (genetic predisposition) 、揉眼睛 (eye rubbing) 、年輕、異位性疾病 (atopic disease) 以及膠原蛋白異常導致的結締組織疾病密切相關。文獻中並未將「乾眼症」列為圓錐角膜發生或進展的危險因子，因此選項 (A) 為最不相關的敘述，是本題正確答案。</p>
+<p><strong>其餘選項解析：</strong></p>
+<p>(B)：錯誤（具相關性）。根據 BCSC 第 213 頁，基因易感性 (genetic predisposition) 被明確列為影響 KC 發生與進展的因素之一，且有 6%-8% 的病例報告顯示具有陽性家族病史 (positive family histories)。<br>
+(C)：錯誤（具高度相關性）。根據 BCSC 第 213 與 215 頁，揉眼睛 (eye rubbing) 不僅是促使 KC 發生與進展的重要風險因子，醫師更必須警告晚期患者避免揉眼，以免引發急性角膜水腫。<br>
+(D)：錯誤（具相關性）。根據 BCSC 第 214 與 215 頁，導致關節過度伸展的膠原蛋白異常 (abnormalities in collagen that result in hyperelastic joints) ，以及如 Ehlers-Danlos syndrome 和 Osteogenesis imperfecta 等全身性結締組織疾病，皆是圓錐角膜常見的全身性相關疾病 (systemic associations)。</p>
+<p><strong>💡 核心考點統整：</strong></p>
+<p>本題核心考點為圓錐角膜 (Keratoconus) 的致病危險因子與相關全身性疾病。明確的風險因子包含：<br>
+<strong>基因易感性</strong> (genetic predisposition) <strong>頻繁揉眼</strong> (eye rubbing) <strong>年輕</strong> (young age) <strong>異位性體質 / 過敏性角結膜炎</strong> (atopic disease and allergic keratoconjunctivitis) <strong>膠原蛋白結構異常的結締組織疾病</strong>（例如：Ehlers-Danlos syndrome, Osteogenesis imperfecta 等）必須注意，乾眼症本身並不直接導致角膜膨隆或圓錐角膜的進展。</p>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="question-1718" class="level1">
+<h1>Question 1718</h1>
+<blockquote class="blockquote">
+<p>下列有關herpetic keratitis 的敘述何者錯誤？<br>
+(A) 在樹突狀角膜炎(dendritic keratitis) 時要避免使用局部皮質類固醇。<br>
+(B) HEDS (Herpetic Eye Disease Study) 建議對於基質性角膜炎多次復發或威脅視力的患者終身使用抗病毒藥物以預防復發。<br>
+(C) Acyclovir 的作用機轉是透過病毒的thymidine kinase 活化進一步抑制其DNA polymerase。 (D) 研究顯示topical Acyclovir 治療可避免後續發生基質性角膜炎或復發性上皮疾病。</p>
+</blockquote>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-10-contents" aria-controls="callout-10" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>💡 點擊展開 BCSC 專業解析與出處
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-10" class="callout-10-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><strong>出處來源：</strong> AAO BCSC 2025-2026 E-book Section 8, page 281.</p>
+<p><strong>原文內容：</strong></p>
+<p>(Page 281) Most cases of HSV epithelial keratitis resolve spontaneously, and there is no evidence to suggest that topical antiviral therapy influences the subsequent development of stromal keratitis or recurrent epithelial disease.</p>
+<p><strong>正確答案： (D)</strong></p>
+<p><strong>正確答案解析：</strong></p>
+<p>根據 BCSC 規範，大部分的單純皰疹病毒 (HSV) 上皮角膜炎會自行緩解，且目前「沒有證據 (no evidence)」顯示局部使用抗病毒藥物（如 topical Acyclovir）的治療能夠影響或避免後續基質性角膜炎 (stromal keratitis) 或復發性上皮疾病的發生。局部抗病毒藥物的主要目的是縮短當下上皮角膜炎的病程，而非預防未來的復發。因此，選項 (D) 的敘述錯誤，為本題正確答案。</p>
+<p><strong>其餘選項解析：</strong></p>
+<p>(A)：正確。根據 BCSC 第 282 頁的 Clinical Pearl，局部皮質類固醇會加重樹突狀角膜炎 (potentiate dendritic keratitis)。在存在活躍的皰疹性上皮角膜炎時，應極度謹慎或避免使用，因為會增加病毒持續排出 (prolonged viral shedding) 與角膜炎惡化的風險。<br>
+(B)：正確。根據 BCSC 第 286 頁，基於 HEDS (Herpetic Eye Disease Study) 的結果，對於多次復發 HSV 基質性角膜炎 (stromal keratitis) 或病灶威脅視力的患者，強烈建議給予終身抗病毒藥物預防 (Lifelong antiviral prophylaxis is recommended)。<br>
+(C)：正確。根據 BCSC 第 278 頁 Table 11-2 關於抗病毒藥物的機轉說明， Acyclovir 是透過單純皰疹病毒特有的胸苷激酶 (thymidine kinase) 活化後，進一步抑制病毒的 DNA 聚合酶 (viral DNA polymerase)。</p>
+<p><strong>💡 核心考點統整：</strong></p>
+<p>本題涵蓋了 <strong>Herpetic Eye Disease Study (HEDS)</strong> 的核心結論與 HSV 角膜炎的治療準則：<br>
+<strong>局部抗病毒藥物的限制</strong>：Topical Acyclovir/Trifluridine 等局部藥物能縮短「上皮角膜炎」的病程，但<strong>無法</strong>預防未來的「基質性角膜炎」或「上皮復發」。<br>
+<strong>預防復發的唯一有效方法</strong>：根據 HEDS 研究，<strong>口服抗病毒藥物 (Oral Acyclovir)</strong> 的長期預防性投藥，才能顯著降低基質性角膜炎與上皮疾病的復發率。對於多次復發或威脅視力者，建議終身使用。<br>
+<strong>類固醇的絕對禁忌</strong>：在活病毒複製期（如典型的樹突狀 dendritic 或地圖狀 geographic 上皮角膜炎），局部類固醇是禁忌症，會導致角膜潰瘍惡化。類固醇僅在進入免疫反應為主的「基質性角膜炎」或「盤狀角膜炎」時，才在抗病毒藥物的掩護下謹慎使用。</p>
+</div>
+</div>
+</div>
 
 
 </section>
@@ -546,7 +1003,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/digiiostudio\.github\.io\/oph-exam-db\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
